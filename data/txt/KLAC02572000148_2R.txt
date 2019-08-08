@@ -4,7 +4,7 @@ Jansz, Volckert — erf van                           52         L85 L487v
 " , Wosgel — silversmit                          44         414
 " , Wessel — commenijhouder                      SL         514
 " , Willem — roermaker                           11         105
-" Willem — doodtkistemaker                     28         274
+" , Willem — doodtkistemaker                     28         274
 " , Willem — kistemaker                          35         339
 " , Willen + zuster                              36         343
 " , Willem — backer                         36        348
@@ -23,7 +23,7 @@ Jeanz, Burghje — wed. Jan de Leeuw — wijnkooper       1           6v
 " , Reijer — Erven van                        7   5          b2v
 " , wed. Willem — geb. Claartje Jans              10          96
 Jeapijn, Jan                                          6          52v
-" Michiel                             4        34
+" , Michiel                             4        34
 Jaspertz, Mr. Anthonij — chirurgijn                  20         188
 Jaspersz, Daniel — vleeshouwer                      19         178v
 Jasperz, Geertruijt                                  6          55

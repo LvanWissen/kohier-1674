@@ -7,11 +7,11 @@ Schaeff, Wed. Dirck Pietersz                        53         505
 " , Jan Jansz                                  54         510
 " , Willem                                     49         457
 Schaep, Brigitta                                    e4         219v
-" Dirck                                       24         219v
+" , Dirck                                       24         219v
 " , Dirck                                        M         566
 " , Mr. Dirck — secretaris                        O         593
 " , Elisabeth                                   40         375
-" Gerrit                                      24         219v
+" , Gerrit                                      24         219v
 " , Wed. Gerrit — geb. Johanna Visscher         57         Sh4Ov
 " , Jacob — houtcoper                           32         310v
 " , Jacob                                       40         375

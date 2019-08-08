@@ -1,5 +1,4 @@
 Naam                                               Wijk       fol.
-r
 Koedijck, Jan — m— metselaer                        55       , 520
 Koel, Claes Sijmonsz — molen de Jager               Pl         584
 " , Claes Symonsz                                 AS         609v
@@ -14,8 +13,7 @@ Koeman, Jan Koenen — opsiender van de walle          T         617
 Coeman, Seger Pietersz                              33         321
 " , Sijbertus — advocaat                        30         291
 Coemans, Breghje                                   26         250
-" , Wed., Isack — geb. Helena Schuijt +
-kinderen                                  31         301
+" , Wed., Isack — geb. Helena Schuijt + kinderen                                  31         301
 Koen, Anthonij — suppoost bank van leening          O        596v
 Coën, Natanel — Hoogduijts                           J         571
 Coenderdingh, mr. Jan — barbier — getr. met Anna van Wassen                            6          51

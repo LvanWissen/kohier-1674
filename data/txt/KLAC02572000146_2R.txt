@@ -30,7 +30,7 @@ Jansz, Lucas                                        25         255v
 " , Pieter — speckvercoper                       51         47bv
 " , wed. Pieter — metselaer                      51         477
 " , Pieter — linnewinckelier                     53         506v
-" Pieter — corenmolen het Schaep               Pl         58Lv
+" , Pieter — corenmolen het Schaep               Pl         58Lv
 " , Pieter — timmerman                           P6         588
 " , wed. Pieter — mì timmerman                   P6         588v
 " , wed. Ren                                     36         348v

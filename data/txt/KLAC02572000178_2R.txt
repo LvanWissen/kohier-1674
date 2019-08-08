@@ -17,8 +17,7 @@ Cornelisz, Meijndert                                17         162
 " , wed. Steven — schoenmaker                45         426
 " , wed., Taeke                              52         493v
 " , Tierck                          1.17       162
-" , wed. Timon — vlascoper — geb. Lijntje
-Jacobs                                  59         550v
+" , wed. Timon — vlascoper — geb. Lijntje Jacobs                                  59         550v
 " , Warnaer — smit                           27         260v
 " , Walmet                                   40         379
 " , Wiggert — schipper op Amersfoort         21   ,     191

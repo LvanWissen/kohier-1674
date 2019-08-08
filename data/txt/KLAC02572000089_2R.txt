@@ -28,10 +28,10 @@ Gerritsz, Hendrick                                  24         223v
 " , Jacob                                    11         103
 Gerritz, Jan — boxemaker                            10          93
 Gerritsz, Jan — kleermaker                          20         187v
-" Jan                                      24         223v
+" , Jan                                      24         223v
 " , Jan + backer                             36         349
 " , Jan — Erven van                           46         434
 " , Jan — boxemaker                           50         463
 " , Wed. Jan — sadelmaker                     5b         5315
 " , Wed. Jan                                 54         517
-" Jan — backer                              56         529v
+" , Jan — backer                              56         529v

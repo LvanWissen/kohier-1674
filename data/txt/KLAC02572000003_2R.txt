@@ -2,7 +2,7 @@ Naam       Wijk       fol.
 Aates, Eeltje — wed. Jan Reijersz                     e         211
 Abas, Josua Emanuel — alias voor: Emanuel Dios Georgio                                    ?         578
 Abba, Corne — erf van                                           566
-" "    — "   "                                 25         214v
+Abba, Corne — erf van                         25         214v
 " , Cornelis — commissaris huw. zaken               R         406
 " , Mattheus — clerq thesaurie extra ord.                     59k
 Abbas, Aechje                            1        169v
@@ -27,7 +27,7 @@ Abels, Detje — wed., Pieter lleijndertsz               55         505
 " , Evert                                         37         255
 " , Hans — backer en makelaar                     60         557v
 " , wed. Joannes geb. Anna de Bra                 59         552v
-" Mr. Pr.                                3        22
+" , Mr. Pr.                                3        22
 Avendana, wed. Zaruch                                 J         578
 "      Ge Zritto, Jacob                              J        575
 "      Osorio, David                                O        579

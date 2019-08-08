@@ -36,5 +36,4 @@ Duijn, Roeland                                      531         30Ov
 " , Hendrick — Erven van                         27         268
 " , Jan — wijncoper                              27         267v
 " , Samuel — timmerman                           3          372
-"
-" Egbert van — hoeder van                       9          82
+" , Egbert van — hoeder van                       9          82

@@ -17,7 +17,7 @@ Bartelsz, nans                               28        397V
 " , Jan — kistemaker                   45        426v
 " , Jan — cousekoper                   55        498v
 " , Willenm — lichterman                51        4 78v
-Bartelz, “irck — glasecooper                  7         58
+Bartelz, Dirck — glasecooper                  7         58
 " , Jacob — stoelmr.                     7         67
 " , Claes                                8         71v
 " , wede. Wijnant — EÉrf van             18        166v
@@ -25,8 +25,8 @@ Bartens, wede. Trijntje                      45        422
 Barteringh, Gerard                           46        428
 " , Jacobus                          60        S561v
 Bartholen, kinderen van — Deventer Waegnh     48        447
-bartholomeus, Jan — toebackvercoper          55        527
-" , wede. Jan geb. Annitje “4endricx 37       555
+Bartholomeus, Jan — toebackvercoper          55        527
+" , wede. Jan geb. Annitje Hendricx 37       555
 Bartolot, Pr. — groenverkoper                44        411v
 Bartholotti, Aenout                          42        595
 Bartis, Abrahanm — schoolmr., N.Z.             O         592
@@ -37,4 +37,4 @@ Bartolotti, Jan Battista                    42        393
 Bartolotti van den Heuvei, Willem Christiaan 42        393
 Bartijn, Hendrick                            40        5376
 " , Jan                                 40        376
-varu Cosada, Jacob                           J         275
+Baru Cosada, Jacob                           J         275

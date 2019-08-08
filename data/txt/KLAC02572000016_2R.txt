@@ -38,4 +38,4 @@ Backer, Egbert Jacohsz — kimd van             2         17v
 " , wede. Jan                            41        383
 " , Jan                                  54        510
 " , Jan Barentsz                         L5        427
-" Jan Dircksz                          54        513
+" , Jan Dircksz                          54        513

@@ -18,7 +18,7 @@ Block, Iá: — bejaard dochter                 42        z3G2v
 " , Nicolaes — maeckelaer                 20        183
 " , Pelrom — notaris                      25        241v
 " , Pieter — teercoper                    54        516
-" Aädriaansz, Pieter                      30        2868
+" , Aädriaansz, Pieter                      30        2868
 " , Pieter Pietersz                       30        288v
 " , Wouter — voor huisvrouw               AS        609
 Blockemaker, Pieter Cornelisz                51        479
@@ -36,5 +36,5 @@ Blom, Diqu                                  M         567v
 " , Jan — provoost                         25        214v
 " , Jan — árilmeester                      37        355v
 " , Jan — clerk O.I.C.                  O       599
-" , Jan Erasmus — Luijters D®             27        264v
-" Catharina                              39        571v
+" , Jan Erasmus — Luijters Dr             27        264v
+" , Catharina                              39        571v

@@ -5,7 +5,7 @@ Jansz, Abraham — comenijhouder                      41         390v
 " , Adolff — kleermaker                          31         305
 " , Adriaen — koperslager                         3          25v
 " , Adriaen — timmerman                          44         hl12v
-" — Adriaen — vaegdrager                         46         431v
+" , Adriaen — vaegdrager                         46         431v
 " , Adriaen — 6 houte saegmolen                  PL         586v
 " , Wed. Anneke                                  47         439v
 " , wed. Anthonij — cuijper                       7          60
@@ -30,7 +30,7 @@ Jansz, Abraham — comenijhouder                      41         390v
 " , Dirck — wieldraijer                          42         396v
 " , Dirck — cramer                               49         452
 " , Dirck e sleper                               51         480
-" Dirck — boeijerschipper — Erven van          52         495v
+" , Dirck — boeijerschipper — Erven van          52         495v
 " , Dirck — packer                               57         537
 " , Ditmer — heijbaas                            57         Shav
 " , Egbert — ballijn n                       6         46

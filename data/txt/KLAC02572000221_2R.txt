@@ -25,11 +25,11 @@ Mulder, wed. Gerrit                                  9/     83
 " , Jan — schoolmeester                         54 ,(      Sl2v
 Muller, Aris                                        53      4979
 " , wed. Dirck                           25       239v
-" Egidius                           22       200
+" , Egidius                           22       200
 " , Frascois                                    43         401
 "   ', Gerrit — distelateur                        35         340
 " , Harmen — kaerssenmaker                        2 /   l3v
-"      Hendi                                        4          33
+" ,     Hendr.                                        4          33
 " , Hemdrick — swaertveger                      22         204
 " , Mr. Hendrick — barbier                       29         285
 "   , wed. Headrick Jansz                         28         274

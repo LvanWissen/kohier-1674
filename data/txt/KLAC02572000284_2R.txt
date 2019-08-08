@@ -1,4 +1,4 @@
-Naam                    !                            Wijk       fol.
+Naam                                          Wijk       fol.
 Six, Pieter                              9       80
 " , Pieter — varentman                             44         418
 " , Sara                                          24         z221v
@@ -7,11 +7,11 @@ Six, Pieter                              9       80
 Six Carelssoon, Willem                              8          74
 Six van Chandelier, Isaac                           24         z21v
 " , Joan                           24       — 221v
-"          !     , Justus                          24       _221v
+"   , Justus                          24       _221v
 Six Chandelier, Willem                        24       229
 Sixti, Wijbrandus                           7        67v
-Slabberaen, mì Adriaen — Erven van                  54         516
-'Slackmulder, Catharina — wed. Jan Gerritsz Slecht                                16         148
+Slabberaen, mr. Adriaen — Erven van                  54         516
+Slackmulder, Catharina — wed. Jan Gerritsz Slecht                                16         148
 Sladius, Cornelis — rector aan de Oud Zijde         O        591
 " , Dr. Mattheus                          43       4O3Y
 Sladus, Corneliis — rector                            5          38
@@ -20,8 +20,7 @@ Slaeff, Christoffel                        11       108v
 Slager, Wed. Dirck Dircxsz                          53         498v
 " , Dirck Willemsz — Erven van                  39       / 370v
 " , Ibel Pietersz                         —   57     , Shav
-Slecht, Wed. Jan Gerritsz — geb. Catharina               /
-Hachmulder                                 16 /      148
+Slecht, Wed. Jan Gerritsz — geb. Catharina Hachmulder                                 16 /      148
 Slede, Corneliis Jansz van                           26  |      253
 Sleger, Jacob — ord. bode                           O        6O1v
 Sleghert, Jacob — bode ter gdmr. + huisvrouw         57 —   543

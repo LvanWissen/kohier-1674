@@ -14,8 +14,7 @@ Jansz, Reijer — erf van                             13         115
 " , Sieuwert — asgajeur wisselbank               O        595
 " , Sieuwert — assaijeur                         55         5el
 " , Simon                                        18         169v
-" , wed. Simon — houtsager — getr. Marritje
-Albertg — 2 kinderen                     P5        587
+" , wed. Simon — houtsager — getr. Marritje Alberts — 2 kinderen                     P5        587
 " , Steven                                       18         169v
 " , Steven — klompenmaker                        28         273
 " , Stoffel — scheepstimmerman — kinderen van    56         531
@@ -23,14 +22,14 @@ Albertg — 2 kinderen                     P5        587
 " , Sijbrant                            10       95v
 " , Sijmon — lampenaker                          24         219
 " , wed. Sijmon                                  b9         455
-" Sijmon — lichterman                          49         455
+" , Sijmon — lichterman                          49         455
 " , Teunis                                       21         191
 " , Teunis — speckoper                           28         272v
 " , Teunis — kinderen van                        32         316v
 " , Teunis — waegdrager                          33         329
 " , Teunis — Vagcermiav                          46         433
 " , Teunis — backer —+ Erven van                  51       , 474
-" Teunis — waterschipper — kinderen van        52         492
+" , Teunis — waterschipper — kinderen van        52         492
 " , Teunis — bleecker                            P2         585
 " , Wed. Thomas                                  17         156
 " , Timon — schoenmaker                           7          65v

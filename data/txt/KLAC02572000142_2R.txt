@@ -22,7 +22,7 @@ Jansz, wed. Egbert — backer                         56         531v
 " , Gerrit — cuijper                             37         352
 " , Gerrit — appelcoper                          37         354
 " , wed. Gerrit — geb. Grietje Corneliisz         44         4lev
-" Gerrit                                      46         431v
+" , Gerrit                                      46         431v
 " , Gerrit — cuijper                            Sh         509
 " , wed. Gerrit — backer                         56         529
 " , Gerrit — verver                              P6         588
@@ -35,4 +35,4 @@ Jansz, wed. Egbert — backer                         56         531v
 " , Harman — stoeldraijer                        49         458v
 " , Wed. Harman — geb. Sara Jans                 37         353v
 " , Hermen — kuijper                             20         182v
-" Harmen — houttelder                          25         238v
+" , Harmen — houttelder                          25         238v

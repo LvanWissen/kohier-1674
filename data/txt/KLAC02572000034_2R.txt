@@ -1,4 +1,4 @@
-jaan                                         Wijk       fol.
+Naan                                         Wijk       fol.
 Blon, Coenraad                               40        IL
 " , Cornelis                               52        4S4v
 " , Poulus — vleeshouwer                    8         76
@@ -6,7 +6,7 @@ Blon, Coenraad                               40        IL
 " , Cornelis le                            20        186
 " , Michiel le                             45        421
 Blomhoff, Christiaen                          9         83
-" Blommendael, Reijnier /Erven van             52        485
+" , Blommendael, Reijnier /Erven van             52        485
 Blommers, Christina                          31        303
 " , Margareta                          55        518
 Blommert, Frederick                          24        225

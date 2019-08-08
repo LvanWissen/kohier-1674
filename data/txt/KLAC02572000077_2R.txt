@@ -1,6 +1,6 @@
 Naam                                                Wijk       fol.
 Eijgentuijn, Jannetgen                               7          55v
-" — Catharijn                              7          5Y
+" , Catharijn                              7          5Y
 " , Lijsbeth                                7?          59v
 " , Maijken                                7          59v
 " , Neeltgen                                7          55v
@@ -24,10 +24,10 @@ Faber, Abraham — professor                          O        590v
 Fabritius, Abrahan — makelaer                       25         2531v
 " , Jacob — schoolm                         27         261
 Fael, Elias                                          &          29v
-" Faes, Gregorius — Erven van                         25         232v
+" , Faes, Gregorius — Erven van                         25         232v
 " , Wed. Jacob                                    46         L23v
 " , Johannes                                      46         L28v
-" Nicolaes                                     46         L28v
+" , Nicolaes                                     46         L28v
 Falois, Louis de — drapier                          58         545
 Far, Jan — boeckhouder                              21         194
 Farera, David                                       J         57O0v

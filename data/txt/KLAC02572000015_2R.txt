@@ -35,5 +35,4 @@ Backer, Abel Jansz                           39        5367
 " , Dirck fietersz — Erven van           19        178
 " , Ditmar Jacobsz                       44        416v
 " , Egbert — cruijdenier                 20        183
-" Egbert Gerritsz                      50        468
-
+" , Egbert Gerritsz                      50        468
