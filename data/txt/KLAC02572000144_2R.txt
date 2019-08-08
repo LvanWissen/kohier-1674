@@ -1,0 +1,38 @@
+Naam                                               Wijk       fol.
+Jansz, Jan — boxemaker                              17         160
+" , wed. Jan                                     18         172
+" , Jan — erf van                                22         204
+" Jan — vetermaker                             23         208v
+" , Jan — appelcoper                             25         238
+" , Jan — kuijper                                31         30bv
+" , Jan — grutter                                32         311
+" , Jan — bierdrager                             3b         334v
+" Jan — lichten — Erven van                    43         4h
+" , wede Jan — geb. Willemijntje Dirckx          43         405v
+" , Jan — gietermaker                            h4         418
+" , Jan — grutter                                46         L32v
+" , Jan — erf van                                46         432v
+" , Jan — erf van                                49         458
+" , wed. Jan — geb. Tietje Adriaens            49        459v
+" Jan — grutter                               51         478
+" , Jan — vloetschuytvoerder                     51         478v
+" , Jan — vloetschuijtvoerder                    51         479v
+" , Jan — coorendrager                           51         481
+" , Jan                                 51       481v
+" , wed. Jan — brandewijnvercoper geb. Femnnitje Lambers                        51         L82v
+" , Jan — backer                                 52         48693
+" , Jan — Buijckslooter veermen                  52         495
+" , Jan — backer                                 53         498
+" , Jan — backer                   |             53         503
+" , Jan — smalschipper                          53         503v
+" , Jan            53       505v
+" Jan                                          53         506
+" , Jan — backer                                 53 —  i   506
+" , Jan — molen de Duijf                         PI         584
+" , Jan — coorennolenaer                         P5         587
+" , Jan — commenijhouder                         Ps .       587
+" , Jan — ondersluiswachter — Amstelsluis        O        604
+" , Jasper                                       26         25bv
+" , Jesper                                       34         333v
+" , Jeuriaen — gchoenmaker                       19         177v
+" , Job — reijmeester                            59         555
