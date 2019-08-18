@@ -1,3 +1,4 @@
+Naam                                            wijk                fol.
 Dorhout, Maria                                      40         373
 " , Weduwe                                    40         379
 Doris, Daniel                                       40         380
