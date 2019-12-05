@@ -5,7 +5,7 @@ Pietersz, Huijbert — erf van                        48         450
 " , Ibel — slager                             57         5hav
 " , Jacob — dociter van                       ek         z225v
 " , Jacob — grutter                           33         329
-"     , Jacob — grutter                           48         447
+" , Jacob — grutter                           48         447
 " , Jacob — onder mr. stratemaker              O        590v
 Pieterz, Jan — verkoopt schoenmakers gereetschap     7          65
 Pieterz, Jan — backsr                                2          17
@@ -15,7 +15,7 @@ Pietersz, Jan — erf van                             21         194
 " , Jan — cuijper                             46         432v
 Pietersz, Jan — grutter                             51         b77v
 " , Jan — nì metselaer                        52         488
-"     , wed. Jan — getr. met Gerriit Sonnevelt holstermaker                              52         489v
+" , wed. Jan — getr. met Gerriit Sonnevelt holstermaker                              52         489v
 " , Jan — coorndrager                         53         505
 " , Jan — Haerlenmerschipper                  54         512
 " , Jan — mnÈ timmerman                        5h         516v

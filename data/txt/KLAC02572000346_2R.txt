@@ -32,6 +32,6 @@ Wolf, Hendr — suppoost benk van leening               O         596v
 " , Jacob de — hoedecramer                         AS         610
 "   , wed. Carel de                                  38         365v
 Wolff, Abel de                                       51         471
-"  , Dirck de                                      32         312
+" , Dirck de                                      32         312
 " , wed. Hans de — geboren Agneta Block           L2         393
-"  , Jacob de                                       4          29
+" , Jacob de                                       4          29

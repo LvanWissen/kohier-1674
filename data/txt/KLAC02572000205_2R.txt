@@ -21,7 +21,7 @@ Lijnslager, Hendt                                   10          99
 " , Joan                                   56         533
 Maa, Francois de — oorlogemaker                    29         279
 Mabers, wed. Carel — geb. Grietje Pillet            34         334
-Machado, Moses              \                       J         573
+Machado, Moses                                      J         573
 Macherus, Abrahan                                   20         185
 Macor, Isack Pena                                    J         572v
 Madecker, Wijnant — suppoost bank van leening        O         596
@@ -29,7 +29,7 @@ Mael, wed. Isaack van                                5          Liv
 Maenbeeck, Michiel                                  21         195v
 Maerloop, Agniet van                                31         302v
 " , Anaitje van — wed. Justus Gesteranus      31         302v
-" , Gerrit van         .                 31       302
+" , Gerrit van                   31       302
 " , Willempje van                             31         302v
 " , Maersen, Coraelis                                   10          99
 Maersman, Frana de — blickslager                    30         291

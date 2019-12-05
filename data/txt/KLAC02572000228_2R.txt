@@ -22,7 +22,7 @@ Nunes, Emanuel d Acosta                              J         580
 " , Christoffel                                  J         572v
 Nunes Castello, Jaques                               J       574
 Nunes Henriques, Jacob                               J        572
-"  , Hoses                               J      572
+" , Hoses                               J      572
 Nunes Mendes, Manuel                                 J         574
 Nunes de Mercado, David                              J         576v
 Nuttelman, Jan                                       10          96
