@@ -8,7 +8,7 @@ def main():
 
     d = []
 
-    for f in os.listdir(TXTPATH):
+    for f in sorted(os.listdir(TXTPATH)):
         d += processFile(os.path.join(TXTPATH, f))
 
     return d
@@ -73,7 +73,7 @@ def surnameFill(person, previousPerson, f):
     surname, _ = previousPerson.split(',', 1)
     surname = surname.strip()
 
-    person = person.replace('"', surname, 1)
+    person = person.replace('" ', surname, 1)
 
     return person
 

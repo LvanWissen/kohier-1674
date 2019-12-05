@@ -16,7 +16,7 @@ Jansz, wed. Egbert — backer                         56         531v
 " , Gerrit — sleper                               8          77
 " , Gerrit                                       18         169v
 " , Gerrit — lootgieter                          18         171v
-" -, Gerrit — kaersemaker                         18         171v
+" , Gerrit — kaersemaker                         18         171v
 " , wed. Gerrit — backer                         20         183v
 " , Gerrit — rou + messemaker                    31         305
 " , Gerrit — cuijper                             37         352
