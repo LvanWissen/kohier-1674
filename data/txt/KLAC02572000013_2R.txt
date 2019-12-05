@@ -1,10 +1,10 @@
 Naam                                        Wijk       fol.
 Arentsz, Arent — Erven van                   51        475v
-" , Barent — kinäeren: van               50        468V
+" , Barent — kinderen van               50        468V
 " , Dirck — molenaer aan de Vaick       P 5       567
 " , Douwe — mrT. timmerman               Ui        41è
 " , Frederick — kuijper                 51        472
-" , [Herman                              17        154v
+" , Herman                              17        154v
 " , Hendrick — kuijper                  50        466
 " , Hendrick — schoenlapper             Si        474v
 " , Ijbel — backer                      31        305
@@ -16,11 +16,11 @@ Arentsz, Arent — Erven van                   51        475v
 " , Jan — timmerman                     50        467v
 " , Jan — lichterman                    51        4 78
 " , Jan — bleeker                       P2       585
-" , Cornelis — lichterman; kind: van    55        501
+" , Cornelis — lichterman kind van    55        501
 " , wede. Marten                        46        435
 " , Pieter getr. met Aechje Claes Bot   16        150
 " , Pieter — boeckvercoper + dochter    24        220
-" , Teunis — timmerman   |              28        276v
+" , Teunis — timmerman                 28        276v
 " , Thomas — schipper op Uyttrecht      59        554
 " , Trijn — Wede.                       55        525
 " , Wijnand                             46        432
