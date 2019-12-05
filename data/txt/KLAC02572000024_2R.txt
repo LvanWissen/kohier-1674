@@ -10,7 +10,7 @@ Becker, Abraham — advocaat                   29        286
 " , Hendrick — captein                   37        550v
 " , Hendrick                             E         567
 " , Hendrick — bewintheboer O.I.C.      O        598
-" , Hendrick — comnissaris van wisselbank R        607
+" , Hendrick — comnissaris van wisselbank  R      607
 " , Jan                                   2         11
 " , Catharina — wede. Jaspar de Visscher — Erven van                            47        430
 " , Lamnbert — makelaar                   32        313v
@@ -24,7 +24,7 @@ Beeck, Hendrick — ingenieur                  58        549
 " , Anneke van                            20        189v
 " , Harmen van + huisvrouw                26        244
 " , Hendrick van                                             31              306
-" , wede. Hendrick van geb. àánnitje Kaijser 36      Z v
+" , wede. Hendrick van geb. àánnitje Kaijser  36    Z v
 " , Hendrick van                          38        361
 " , Isack van                             59        555
 " , wede. Jacob van geb. Marija Rijcker   38        361

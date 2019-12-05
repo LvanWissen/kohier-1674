@@ -18,7 +18,7 @@ Corneliisz, Abraham — schoenmaker                    43         407
 " , wed. Arent — geb. Rebecca Cornelis       50         467
 " , Bastiaen — slager                         8          77
 " , Bruijn                                   57         537
-" , Daniel — Erven van                       32       / 311
+" , Daniel — Erven van                       32         311
 " , Dirck                                    54       514
 " , Dirck — houtsager — molen de Hoop        P2        585v
 " , Dirck -.                             T        613
@@ -27,7 +27,7 @@ Corneliisz, Abraham — schoenmaker                    43         407
 " , Egbert — bleecker                        P2         585
 " , Engel — sijlschuijtenvoerder             47         438
 " , Floris                                   5b         516v
-" , Gerbrand                                 49 — 455
+" , Gerbrand                                 49    455
 " , Gerrit                                  46         4299
 " , Gerrit — houtcoper                       53         504v
 " , Gerrit — captein — molen Dommekracht     P5         586v

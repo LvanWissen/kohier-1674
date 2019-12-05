@@ -6,8 +6,8 @@ Six, Pieter                              9       80
 " , Willem — Willemsz                        60      663
 Six Carelssoon, Willem                              8          74
 Six van Chandelier, Isaac                           24         z21v
-" , Joan                           24       — 221v
-"   , Justus                          24       _221v
+" , Joan                           24       221v
+"   , Justus                          24       221v
 Six Chandelier, Willem                        24       229
 Sixti, Wijbrandus                           7        67v
 Slabberaen, mr. Adriaen — Erven van                  54         516
@@ -18,17 +18,17 @@ Sladus, Corneliis — rector                            5          38
 " , Dr. Mattheus                          34       330v
 Slaeff, Christoffel                        11       108v
 Slager, Wed. Dirck Dircxsz                          53         498v
-" , Dirck Willemsz — Erven van                  39       / 370v
-" , Ibel Pietersz                         —   57     , Shav
-Slecht, Wed. Jan Gerritsz — geb. Catharina Hachmulder                                 16 /      148
-Slede, Corneliis Jansz van                           26  |      253
+" , Dirck Willemsz — Erven van                  39         370v
+" , Ibel Pietersz                            57      Shav
+Slecht, Wed. Jan Gerritsz — geb. Catharina Hachmulder                                 16        148
+Slede, Corneliis Jansz van                           26        253
 Sleger, Jacob — ord. bode                           O        6O1v
-Sleghert, Jacob — bode ter gdmr. + huisvrouw         57 —   543
-Sleper, Dirck Jansz        \          |           51         480
+Sleghert, Jacob — bode ter gdmr. + huisvrouw         57    543
+Sleper, Dirck Jansz                             51         480
 Sleper, Gerrit Jansz                                8          77
-" , Hendrik Jansz                              . 46 , T hB
-" , Pieter Laurensz                             45 °      L26v
-Slicher, Elbert — commies ter adnt                  O        601
+" , Hendrik Jansz                               46        T hB
+" , Pieter Laurensz                             45       L26v
+Slicher, Elbert — commies ter admt                  O        601
 " , Thomas                                      41         382v
 " , Wigbold — ontfanger                         9          88v
 " , Mr. Wigbolt — ontfanger generaal admt      O        600

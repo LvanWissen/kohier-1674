@@ -5,7 +5,7 @@ Albersz, Albert — rentenier                  50        455
 " , Engel — lichterman, dochter van     54        510
 " , Gerrit — schipper                   54        509
 " , wede. Harman                        55        S522v
-" , Hendrick — maeckelaer en coornürager 1l       l103v
+" , Hendrick — maeckelaer en coorndrager  1l       l103v
 " , Carel — schuijtevoerder             36        245
 " , Claes                               11        102
 " , Pieter — out coorndrager            51        476
@@ -15,7 +15,7 @@ Alberts, Aeltje — wede.                      20        187v
 " , Albrechje                           23        216
 " , Annetje                              5         58
 " , Marritje — wijnvercoopster           6         SLv
-" , Marritje — wede. Simon Jansz houtsager 5       587
+" , Marritje — wede. Simon Jansz houtsager  5     587
 Albertsz, Albert — blauverwer                56        529v
 " , wede. Gerrit                       18        172
 " , Jacob — briefbestelâder             17        165v

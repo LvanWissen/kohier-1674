@@ -6,7 +6,7 @@ Backer, Reijnier Willemsz                    55        527
 " , Teunis Hendricksz                    52        314v
 " , Teunis Jansz — Erven van             51        447
 " , Timon Barentsz                       L        415v
-" , wede. Tjerck Hajes geb. Fijtje Marcelis 31     304v
+" , wede. Tjerck Hajes geb. Fijtje Marcelis  31   304v
 " , Willem                               28        276
 " , Willem                               59        551
 " , wede. Willenm Jacobsz                 54        512
@@ -15,7 +15,7 @@ Backer, Reijnier Willemsz                    55        527
 " , Willenm Teunisz                       26        255v
 " , Maria de — wede. Jan le Moir         37        351v
 Backers, Aeltje — wede. Hentr. Blom           7         66
-" , Marritje — huisvrouw Thomas Goijkens 32       515v
+" , Marritje — huisvrouw Thomas Goijkens  32     515v
 Backmuijden, Daniel (= Baccamude)            25        230
 Baûel, Benedictus — Erven van                55        522
 Bael, Cornelis Hendricx van                  58        54S3v
@@ -27,7 +27,7 @@ Baerle, David van                            45        4OOV
 " , Hendrick van                         43        400
 " , Joannes van                          43        4OOv
 " , Constantia van                       453        4OOv
-" , Maria van — wede. captein David Swerius 57     539
+" , Maria van — wede. captein David Swerius  57   539
 " , Susanna van gen. met De. Johannes Tielemans — kinderen van                       453     4OOv
 Beers, Ignatius                              45        421
 " , Michiel — notaris                     u        410

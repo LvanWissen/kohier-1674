@@ -1,11 +1,11 @@
 Naam                                               Wijk        fol.
 Harcenbersh, Gerrit van — cleermaker                22         205
 Hardenhoeck, Cornelis                              55         525v
-Harder, Diewertje — weû.                            51         477v
+Harder, Diewertje — wed.                            51         477v
 " , Carsten — schipper op Haerlem               51         Lôlv
-Harder(s), vrouw Leendert de         Labaren        35         332
+Harder(s), vrouw Leendert de Labaren        35         332
 Harder, Barent de — destill                         5          20
-Harel, Agnis        °                              32         313v
+Harel, Agnis                                       32         313v
 " , Anna                                          2         3ijv
 " , Elisa                                        32         313v
 " , Christiaen                                   52         313v
@@ -19,7 +19,7 @@ Haringcarspel, Nicolaes — captein                   40         573v
 " , Nicolaes                              M         557v
 " , Nicolacs — comm. van de desolate boedels                               R         608
 Harinsh, Wed. Isbrant                               24         228
-" , wed. Jacob Sijmonz geb. Trijntge Isbrants 9          85v
+" , wed. Jacob Sijmonz geb. Trijntge Isbrants  9          85v
 " , Jacob Sijmonsz                             5h         509v
 " , Wed. Jan Pieterz geb. Neeltge Gijsberts     9          92
 "    , Johannes — wijncoper                       30         293

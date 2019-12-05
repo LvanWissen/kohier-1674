@@ -13,7 +13,7 @@ Alvares, Gabriel                              J         573
 " , Samuel                               J         577
 " , da Costa, Aron                       J         578v
 "      Vega, Fardinandus — Erven van        J         SE1v
-Anelbergen, Anna wede. Lodewijck van den Bergh 30      293v
+Anelbergen, Anna wede. Lodewijck van den Bergh  30    293v
 Amans, wede. Corn. geb. Marritje Roos        51        48Ov
 Ambrosius, wede. Dirck                        4         36
 " , Johannes — Erf van                43        405
@@ -34,6 +34,6 @@ Anmershoff, Hendrick                          18        172
 Ameshoff, Barent                             22        203
 Acia, Harmanus — Erf van                      9         86
 Ania, Matthias                                 9         86
-Anour, Gerrit de  — boode op Zeeland en wijncoper 29        283
+Anour, Gerrit de  — boode op Zeeland en wijncoper  29      283
 " , Jan d'  — notaris                      24        22è2v
 " , Carel d'  — stadschrijver              Ô         590

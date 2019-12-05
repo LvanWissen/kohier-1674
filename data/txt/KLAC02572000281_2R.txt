@@ -21,7 +21,7 @@ Servaes, Femmitge                                   l2         109v
 " , Philips — kleermaker                        2          lb4v
 Serwouters, Johannes — apotheker                    43         4o3v
 " , Cornelis                                6          52
-Sette, Jan — greinwercker                           47 /     44Ov
+Sette, Jan — greinwercker                           47       44Ov
 " , Jan — de Jonge                               50      62
 Seuter, Abraham le — wijnkooper                      8          69v
 " , Elisabeth le                                 8          70

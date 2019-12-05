@@ -20,9 +20,9 @@ Paulusz, Hendrick — caagcooper                      28         277
 " , Jan — echoenmaker                          38         359
 " , Jan — treckwercker                         h4         415v
 " , Jan — scheepstimmerman                     53         507
-" , Jan — schrijver van de poort                T      / 614
+" , Jan — schrijver van de poort                T        614
 " , Claes                                      5k         515
-" , Paulus — slager                            11 /      107
+" , Paulus — slager                            11        107
 " , Pieter — waegdrager                        51 |       475
 " , Pieter — weger in de Waegh                 59         553v
 " , Servaes                                    27         265

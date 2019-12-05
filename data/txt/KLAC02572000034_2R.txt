@@ -6,7 +6,7 @@ Blon, Coenraad                               40        IL
 " , Cornelis le                            20        186
 " , Michiel le                             45        421
 Blomhoff, Christiaen                          9         83
-" , Blommendael, Reijnier /Erven van             52        485
+" , Blommendael, Reijnier  Erven van             52        485
 Blommers, Christina                          31        303
 " , Margareta                          55        518
 Blommert, Frederick                          24        225
@@ -20,7 +20,7 @@ Bloocke, Willenm van                          49        452
 Blookenmaker, Jacob Claasz — kinderen van      4         29
 Bloot, Dr. Gerard                            27        268v
 Blije, Monte — factoor                       27        260V
-Blijenberg, Wede. Bartholomeus geb. Maria Hamel 49     456
+Blijenberg, Wede. Bartholomeus geb. Maria Hamel  49   456
 " , Maria                            30        292v
 Blijenbergh, Everhard                        10        97v
 " , Jacobus                         30        292v
