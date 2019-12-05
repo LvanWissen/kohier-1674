@@ -7,7 +7,7 @@ Lemmerman, Abraham                                   &          28v
 " , wed. Albert                        4        28
 " , Jan                              4        281
 Lemmers, Jan                                        32         315
-"    , Jagsper — makelaer                          32         315
+" , Jagsper — makelaer                          32         315
 Lemmingh, Jacob Jacobs                               1           L
 Lemmingh, Pieter                                    32         315
 Lemp, Jan Caspar                                    55         522v

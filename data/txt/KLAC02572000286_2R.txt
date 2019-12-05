@@ -36,4 +36,4 @@ Snit, Johannes                                      37         354
 " , Warnaer Corneliisz                             27         260v
 " , Joost de                                       8          75v
 " , Remond de                                      9          89v
-" , Wed. Gerrit Jansz                              e        , 13
+" , Wed. Gerrit Jansz                              e       , 13

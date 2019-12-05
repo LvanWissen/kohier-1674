@@ -20,7 +20,7 @@ Schuijlerus, Frederick                              21         192
 " , Laurentius                             21         192
 " , D — Erf van                       21        192
 Schuijn, Jochem — kaarsemaker                       46         433
-" , Gerrit Caspersz                            60 ,     560v
+" , Gerrit Caspersz                            60,     560v
 Schuijneman, Pieter                                 57         5Sh2v
 Schuijren, Wed. Deonijs van der                     38         361v
 Schuijt, Albartus                                   30         294
@@ -28,7 +28,7 @@ Schuijt, Albartus                                   30         294
 " , Wed. Arnout                         38       358v
 " , Arnout                                     39         368v 369
 " , Helena — wed. Isack Coemans — kinderen     31         301
-"    , Hendrick                                   31         3011v
+" , Hendrick                                   31         3011v
 " , Jacobus                                    49         L51v
 " , Sara — kinderen van                        31         3011v
 " , Willem Gerritsz — molen van de Vreede      Pl         584

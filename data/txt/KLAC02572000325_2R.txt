@@ -26,7 +26,7 @@ Vogel, Goris Albertz                                 10          98v
 " , Willem de — clercq                            O        595
 Vogelaer, Elisabeth de                               12         113
 " , , Elisabeth de                          AS        610
-" , Jacob de    ,                             OM         568
+" , Jacob de   ,                             OM         568
 " , HE Jacob de  secretaris                O       593
 " , Jan de — erf van                           12         113
 " , Jan de — erf van                           41         385

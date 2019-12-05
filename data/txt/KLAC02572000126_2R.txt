@@ -30,7 +30,7 @@ Hooft, Dirck                                        M         566
 " , Gerard                                        M         566v
 " , Gerrit — Erven van                           60         558
 " , Mr. Gorrit — secretaris                        Ó         595v
-“ , Hendr — fiscaal                          9        88
+“, Hendr — fiscaal                          9        88
 " , Hendrick — getr. met Maria van Walenburgh     ú         566v
 " , Mr. Hendrick — advocaat fiscaal zent          O        600
 " , Hendrick — comm.e van wisselv .              R         607

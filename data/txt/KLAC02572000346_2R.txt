@@ -14,10 +14,10 @@ Wittekoe, Wed. Jan                                   49         458v
 Wittenon(s), Cornelis — Erven van                    48         447v
 Wittepaard, Wed. Jan Tijsz                           18         172v
 Wittepaert, wed. Dirck Gerritz — geb. Agnietge Hendricks                               10          99v
-"       , Gerrit                                   10          99
+"      , Gerrit                                   10          99
 Witters, Steven — wijncoper                          29         284
 Wittevrongel, wed. Petrus — de Jonge                 31         306
-"        , wed.                                   9          81
+" , wed.                                   9          81
 Witzen, Lambert — captein                            33         32bv
 Wodwaert, Dr. Richard — Engels predicant              57         541
 Woerden, Floor van                                   26         255
@@ -30,7 +30,7 @@ Wolf, Hendr — suppoost benk van leening               O         596v
 " , Dirck de + makelaer                            52         488
 " , Mr. Hans de                              25       237v
 " , Jacob de — hoedecramer                         AS         610
-"   , wed. Carel de                                  38         365v
+" , wed. Carel de                                  38         365v
 Wolff, Abel de                                       51         471
 " , Dirck de                                      32         312
 " , wed. Hans de — geboren Agneta Block           L2         393

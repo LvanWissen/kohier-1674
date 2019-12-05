@@ -20,7 +20,7 @@ Cornelisz, Meijndert                                17         162
 " , wed. Timon — vlascoper — geb. Lijntje Jacobs                                  59         550v
 " , Warnaer — smit                           27         260v
 " , Walmet                                   40         379
-" , Wiggert — schipper op Amersfoort         21   ,     191
+" , Wiggert — schipper op Amersfoort         21  ,     191
 " , Willem — scheepstimmerman                16 à      150v
 " , wed. Willem                              23 °      216
 " , Willem + lijndraijer                     37         355

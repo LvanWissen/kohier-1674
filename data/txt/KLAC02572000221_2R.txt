@@ -32,8 +32,8 @@ Muller, Aris                                        53      4979
 " ,     Hendr.                                        4          33
 " , Hemdrick — swaertveger                      22         204
 " , Mr. Hendrick — barbier                       29         285
-"   , wed. Headrick Jansz                         28         274
+" , wed. Headrick Jansz                         28         274
 " , Jan — hoedecramer                           17         163
-"   , Jan — sleper                                33         Ze7v .
+" , Jan — sleper                                33         Ze7v .
 " , Jan                                  49        455
 " , wed. Nicolaes                               20         1849

@@ -9,7 +9,7 @@ Corver, Adriaen                                     51         472
 " , Cornelis — Erven van                        51         472
 " , Cornelis                                    59         555
 " , Nicolaes                                    56         535v
-"   , wed. Burge — erf van                        29         282
+" , wed. Burge — erf van                        29         282
 " , wed. Burgemeester — erf van                 39         369
 " , wed. Burgemeester — erf van                 46         429
 " , wed. burgemeester — erf van                 55         470

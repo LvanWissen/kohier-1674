@@ -23,7 +23,7 @@ Vermeulen, Adriaen — Erven van                       35         339v
 " , Cornelis                                 e4         227
 " , Marritje                                  26        251
 " , Michiel — blauwverver                   48       445
-"       , Nicolaes                                  41         391v
+"      , Nicolaes                                  41         391v
 Vermeurs, Thomas — bandeliermr.                       e4         227
 Verplanken, wed. Abraham                              5          43
 Verpoorten, Anna                                   45         420
@@ -36,4 +36,4 @@ Verschagen, wed. Albert — geb. Jannitje Jans         53         499
 Verschoor, Clement                                   50         461v
 Verschuer, Adriaen — fijlvercoper                    2l         191v
 Verschuur, Margareta                                  9          80
-Verschuijlenburgh, Salomon — oruijdenier          , 19         181
+Verschuijlenburgh, Salomon — oruijdenier         , 19         181
