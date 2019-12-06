@@ -3,7 +3,7 @@ import re
 
 TXTPATH = 'data/txt/'
 REGEX = re.compile(
-    r"""(?P<baseSurname>[^,\n]+), (?P<givenName>[^—\n]*)+? ?(?:(?P<surnamePrefix>(?:van der|van de|van|de|du|d')))? ?(?:—(?P<disambiguation>.*))?"""
+    r"""(?P<baseSurname>[^,\n]+), (?P<givenName>[^—\n]*)+? ?(?:(?P<surnamePrefix>(?:van der|van de|van|de|du|d')))? ?(?:—(?P<disambiguatingDescription>.*))?"""
 )
 
 
@@ -32,6 +32,9 @@ def processFile(f):
         for n, line in enumerate(lines):
             line = line.strip()
             personReference, neighbourhood, folio = separate(line)
+
+            if neighbourhood:
+                neighbourhood = neighbourhood.replace(' ', '')
 
             data.append({
                 'source': os.path.basename(f),
@@ -107,7 +110,7 @@ def parseNameRef(reference, REGEX=REGEX):
                 'baseSurname': None,
                 'related': None,
                 'altName': None,
-                'disambiguation': None
+                'disambiguatingDescription': None
             }
 
         # someone else (+ huisvrouw)
