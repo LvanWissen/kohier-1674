@@ -2,6 +2,9 @@ import os
 import re
 
 TXTPATH = 'data/txt/'
+REGEX = re.compile(
+    r"""(?P<baseSurname>[^,\n]+), (?P<givenName>[^—\n]*)+? ?(?:(?P<surnamePrefix>(?:van der|van de|van|de|du|d')))? ?(?:—(?P<disambiguation>.*))?"""
+)
 
 
 def main():
@@ -23,25 +26,37 @@ def processFile(f):
         lines = infile.readlines()
 
         data = []
+        records = []
+
+        # Try to cut the line in three parts: Nameref, Neighbourhood, Folio
         for n, line in enumerate(lines):
             line = line.strip()
-            person, neighbourhood, folio = separate(line)
+            personReference, neighbourhood, folio = separate(line)
 
             data.append({
                 'source': os.path.basename(f),
                 'lineNumber': n,
                 'reference': line,
-                'person': person,
+                'personReference': personReference,
                 'neighbourhood': neighbourhood,
                 'folio': folio
             })
 
+        # Correct the " abbreviation
         for n, d in enumerate(data):
-            if d['person'].startswith('"'):
-                d['person'] = surnameFill(d['person'], data[n - 1]['person'],
-                                          f)
+            if d['personReference'].startswith('"'):
+                d['personReference'] = surnameFill(
+                    d['personReference'], data[n - 1]['personReference'], f)
 
-        return data
+        # Try to parse the nameref
+        for d in data:
+            matches = parseNameRef(d['personReference'])
+
+            if matches:
+                d = {**d, **matches}
+            records.append(d)
+
+        return records
 
 
 def separate(text):
@@ -49,23 +64,23 @@ def separate(text):
     text = text[::-1]
 
     try:
-        folio, neighbourhood, person = re.split('\s\s+', text, 2)
+        folio, neighbourhood, personReference = re.split('\s\s+', text, 2)
     except:
         try:
-            neighbourhood, person = re.split('\s\s+', text, 1)
+            neighbourhood, personReference = re.split('\s\s+', text, 1)
             folio = None
         except:
-            person = text
+            personReference = text
             neighbourhood = None
             folio = None
 
-    person = person[::-1]
+    personReference = personReference[::-1]
     if neighbourhood:
         neighbourhood = neighbourhood[::-1]
     if folio:
         folio = folio[::-1]
 
-    return person, neighbourhood, folio
+    return personReference, neighbourhood, folio
 
 
 def surnameFill(person, previousPerson, f):
@@ -76,6 +91,61 @@ def surnameFill(person, previousPerson, f):
     person = person.replace('" ', surname, 1)
 
     return person
+
+
+def parseNameRef(reference, REGEX=REGEX):
+
+    matches = [m.groupdict() for m in REGEX.finditer(reference)]
+
+    if matches:
+        result = dict((k, v) for k, v in matches[0].items())
+
+        if not result.get('givenName', None):
+            return {
+                'givenName': None,
+                'surnamePrefix': None,
+                'baseSurname': None,
+                'related': None,
+                'altName': None,
+                'disambiguation': None
+            }
+
+        # someone else (+ huisvrouw)
+        if ' + ' in result['givenName']:
+            result['givenName'], result['related'] = result['givenName'].split(
+                ' + ')
+        else:
+            result['related'] = None
+
+        # geb. filter
+        if 'geb.' in result['givenName']:
+            result['givenName'], result['altName'] = result['givenName'].split(
+                ' geb. ')
+        else:
+            result['altName'] = None
+
+        # and filter out any surnamePrefix
+        prefixes = {
+            'van der', 'van de', 'van', 'de', 'du', "d'", 'ter', 'ten',
+            'de la', 'la'
+        }
+        if len(set(result['givenName'].split()).intersection(prefixes)) > 0:
+            name = re.split(r" (van der|van de|van|de la|la|de|du|d'|ter|ten)",
+                            result['givenName'])
+
+            if len(name) >= 4:
+                # Fonseca, de Dias de
+                *givenNames, result['surnamePrefix'], _ = name
+                result['givenName'] = " ".join(i.strip() for i in givenNames)
+            elif len(name) >= 2:
+                result['givenName'], result['surnamePrefix'], _ = name
+            elif len(name) == 1:
+                result['surnamePrefix'] = name[0]
+
+        else:
+            result['surnamePrefix'] = None
+
+        return result
 
 
 if __name__ == "__main__":
