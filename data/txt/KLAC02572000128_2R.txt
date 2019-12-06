@@ -1,12 +1,12 @@
 Naam                                             Wijk            fol.
-Zooren, Jannekinderen van                                 ù          27
+Hooren, Janneken van                                 4          27
 " , Nicolaes van                                 2          18
-Hoorn, Jan — schoenmaker                            2b         218v
+Hoorn, Jan — schoenmaker                            24         218v
 " , Dirck van — schipper op Uijtreght            10          98
 " , Egbert Jacobsz van — makelaer                59         552
 " , Fokeltge van — wed. Ansloo                    9          81
-" , Gijsbert van — clerck O.lI.C.                 O        599
-" , isaack van — calanderman                      3          e1v
+" , Gijsbert van — clerck O.I.C.                 O        599
+" , Isaack van — calanderman                      3          e1v
 " , Isaek van                                    59         551
 " , Jacomo van — sterfhuis van                   30         294
 " , Jan van — kinderen varn                        6          53
@@ -16,7 +16,7 @@ Hoorn, Jan — schoenmaker                            2b         218v
 " , Catrina van — erf van                        40         373v
 " , Catharina van — erf van                      42         393
 " , Catharina van — erf van                      46         428v
-" , Catharina van — erf van                       ì         568v
+" , Catharina van — erf van                       M         568v
 " , Cornelia van — wed. Isaek van Penen          50         h61v
 " , Lambert van — backer                          4          30v
 " , Maria van — vrijster                         56         530
@@ -24,14 +24,14 @@ Hoorn, Jan — schoenmaker                            2b         218v
 " , Pieter Jansz van                             17         155
 " , Simon van — kinderen van                     50         461
 " , wed. Burge Simon van                         57         539v
-" , WWillem van — kinderen van                    12         110v
+" , Willem van — kinderen van                    12         110v
 " , Willem van                                   31         5307v
-" , WWillem van — sluijswachter van de Amstelsluijs                                        O         5G2v
+" , Willem van — sluijswachter van de Amstelsluijs                                        O         5G2v
 " , Willem van — weduwnaar AAAnna de Graet         A          611
 Hoornbeeck, Hercules van — Erven van                31         3C6v
-" , He van — kinderen van                   31         306v
+" , H. van — kinderen van                   31         306v
 "      , wed. Jochem van — erven van             18         171
-Eoos, Emanuel — toebackvercoper                     54         5153
-" , Jan e wijnkoper                               17         162
+Hoos, Emanuel — toebackvercoper                     54         5153
+" , Jan — wijnkoper                               17         162
 " , Jan                                           20         186v
-Kopnan, Dirck Jacobsz                               47         438v
+Hopman, Dirck Jacobsz                               47         438v
