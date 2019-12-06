@@ -145,6 +145,9 @@ def parseNameRef(reference, REGEX=REGEX):
         else:
             result['surnamePrefix'] = None
 
+        # any spaces left?
+        result = {k: (v.strip() if v else v) for k, v in result.items()}
+
         return result
 
 
