@@ -3,8 +3,8 @@ Pietersz, Cornelis — mr. timmerman                16        151
 " , Cornelis — kaegman                        26         255
 " , Cornelis — molenaer                       53         5305v
 " , Cornelis — gchuijermaker                  54         512v
-" , Cornelis — molen de Wip                   Pl         583v
-" , Cornelis — molen de Juffer                Pl         584
+" , Cornelis — molen de Wip                   P1         583v
+" , Cornelis — molen de Juffer                P1         584
 " , wed. Cas —getr. met Jurriaen Cloppenburgh                                    18         274
 " , Lambert — garentwijnder                   b         418
 " , Laurens                                   51         476v

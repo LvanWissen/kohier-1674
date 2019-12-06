@@ -2,7 +2,7 @@ Naam                                                Wijk       fole.
 Casteleijn, Nicolaes                                35         338v
 Castello, Jaques Nunes                               J         57uv
 Castelijn, Adriaan, getr. met Maria de Koningh      19         175
-Castelijn, Dirck    |                               12         l13v
+Castelijn, Dirck                                    12         l13v
 " , Dirck — boode op Antwerpen               13         115v
 " , Jecob — toebackwinckelier                48         Li6v
 " , Pieter                                   42         394
@@ -28,7 +28,7 @@ Kaij, Hendrick — lakenbereijder                     42         397v
 Keat, Adam                                          44         410
 Keere, Jan van de — silvertrecker                   39         372
 Keeren, Coenraad — uijtdrager                       37         354
-Keeren, wed., Jacob van — geb. Beletje Dolphijn     '50         L62v
+Keeren, wed., Jacob van — geb. Beletje Dolphijn     50         L62v
 " , Meijndert van                               21         195v
 " , Pieter Meijndertz van                       21         195v
 " , Willem van                                  51         470

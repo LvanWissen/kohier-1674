@@ -6,7 +6,7 @@ Jansz, Abraham — comenijhouder                      41         390v
 " , Adriaen — koperslager                         3          25v
 " , Adriaen — timmerman                          44         hl12v
 " , Adriaen — vaegdrager                         46         431v
-" , Adriaen — 6 houte saegmolen                  PL         586v
+" , Adriaen — 6 houte saegmolen                  P1         586v
 " , Wed. Anneke                                  47         439v
 " , wed. Anthonij — cuijper                       7          60
 " , Anthonij — trompetter                         T         614v
@@ -19,7 +19,7 @@ Jansz, Abraham — comenijhouder                      41         390v
 " , Barent — cuijper                             42         395
 " , Barent — cruijdenier                         42         397
 " , Barent — backer                              47         437v
-" , Barent — backer                              49        '457
+" , Barent — backer                              49        457
 " , Parent — stoelemaker                         50         467
 " , Bartel — cuijper                             50         468v
 " , David — witwerker                             9          82

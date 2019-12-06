@@ -25,7 +25,7 @@ Valckenier, Geertruijt                               31         299
 " , Gillis — burgemeester                     R         605
 " , Cornelia                                 31         299
 " , Machtelt                                                        31                299
-" , Wouter .                  x               M         568
+" , Wouter                    x               M         568
 " , Wouter — secretaris                        O          593v
 Valckenrijck, Hendrick — nakelaer                    27         262
 Valckesteijn, Hendrick Willemsz                      16         1497

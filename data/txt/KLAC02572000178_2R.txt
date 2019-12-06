@@ -22,7 +22,7 @@ Cornelisz, Meijndert                                17         162
 " , Walmet                                   40         379
 " , Wiggert — schipper op Amersfoort         21  ,     191
 " , Willem — scheepstimmerman                16 à      150v
-" , wed. Willem                              23 °      216
+" , wed. Willem                              23        216
 " , Willem + lijndraijer                     37         355
 " , Willen                i         60      563
 " , Wouter — cCoussecooper     D               6          51v

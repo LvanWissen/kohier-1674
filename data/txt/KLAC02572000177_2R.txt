@@ -17,7 +17,7 @@ Cornelisz, Jan — schipper op Sardam                 17         164
 " , wed. Jacob                               30         297
 " , Jacob — commandeur                       51         &7bv
 " , Jacob — gscheepstimmerman                 53         5O1v
-" , Jacob — saegmolenaer   |                 60         562v
+" , Jacob — saegmolenaer                     60         562v
 " , Jeuriaen — sjouwer                       50         466
 " , Claes — schoenmaker                      30         293v
 " , Claes — molenaer — erf van               39         371

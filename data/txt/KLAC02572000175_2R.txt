@@ -28,7 +28,7 @@ Cornelis, Adriaentje                                30         297
 " , Grietge — wed.                            11         102
 " , Grietje — wed., Gerrit Jansz               44         412v
 " , Grietje — wed. Frederick Willemaz         51         478v
-" , Haijltje — wed., Jan Martsz               '50         464
+" , Haijltje — wed., Jan Martsz               50         464
 " , Heijltje — wed., Jacob Joosten beschuijtbacker                           48         448v
 " , Imnetje — wed. Paulus Dircksz Noort kinderen van                              P2         585v
 " , Cornelis, Jannetge                         6          49

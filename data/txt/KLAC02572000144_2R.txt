@@ -23,14 +23,14 @@ Jansz, Jan — boxemaker                              17         160
 " , Jan — backer                                 52         48693
 " , Jan — Buijckslooter veermen                  52         495
 " , Jan — backer                                 53         498
-" , Jan — backer                   |             53         503
+" , Jan — backer                                 53         503
 " , Jan — smalschipper                          53         503v
 " , Jan            53       505v
 " , Jan                                          53         506
 " , Jan — backer                                 53 —  i   506
 " , Jan — molen de Duijf                         PI         584
 " , Jan — coorennolenaer                         P5         587
-" , Jan — commenijhouder                         Ps .       587
+" , Jan — commenijhouder                         Ps         587
 " , Jan — ondersluiswachter — Amstelsluis        O        604
 " , Jasper                                       26         25bv
 " , Jesper                                       34         333v

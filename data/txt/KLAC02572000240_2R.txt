@@ -24,7 +24,7 @@ Pelser, Mathijs + huisvrouw                         21         196v
 Pelt, Abraham — suijckerbakker                      26         252
 Pelt Hensz, wed. Abran                              41         38bv
 Pelt, Anna                                          29         282v
-Pelt, Elisabeth                       |             29         282v
+Pelt, Elisabeth                                     29         282v
 " , Emanuel — kinderen van                       33         Zeev
 " , Govert Pietersz              m               24         224
 " , Hendrick Pietersz                             26         25bv
@@ -34,5 +34,5 @@ Pelt, Elisabeth                       |             29         282v
 " , wed. Paulus — Abramsz                         33         326
 " , Philip — Emanúelsr                      33       32
 " , Philip                                        38         359
-Pelts, Guillan °                          56       536
+Pelts, Guillan                            56       536
 Pelij, Johan — getr. met Debo Moons                 19         175

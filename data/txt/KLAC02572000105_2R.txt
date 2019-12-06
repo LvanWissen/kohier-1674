@@ -1,20 +1,20 @@
 Naam                                                Wijk        fol.
-Hamel, Dr. Elbert                                  ,        L5t
-" , Elisabeth — wed. Adriaen Brouwer             43         LO1
-" , Evert — schipper                             50         L6Ev
+Hamel, Dr. Elbert                                  49        454
+" , Elisabeth — wed. Adriaen Brouwer             43         401
+" , Evert — schipper                             50         466v
 " , Frederick                                    51         472
 " , Gerrit                                       51         472
 " , Glaude — wijncoper                           12         112v
-" , Maria — weal Bartholomeus Blijenburg         s}         456
+" , Maria — weal Bartholomeus Blijenburg         49         456
 " , Agata — getr. met Willem van der Gijsen      18         167
 " , Wed. Jacob — goutleermaeckster               55         522
 Hamer, D.                                           56         528
 Hamersfeld, Lucas van                               40         376v
-Hamerslagh, Leendtert                                Ll         L18v
+Hamerslagh, Leendtert                                44         418v
 Harersveld, Gerrit                                 55         526v
 Hamont, Jan van — suijckerbacker                    27         267v
-Han, Jacob Claesz — aan de molen de Hoop            Pl         583v
-" , wed. Jan Jacobsz geb. Lijsbet Jacobs — molen de Veerslager                            p          587
+Han, Jacob Claesz — aan de molen de Hoop            P1         583v
+" , wed. Jan Jacobsz geb. Lijsbet Jacobs — molen de Veerslager                            P          587
 Hanck, Ealtus — sadelmaker                          22         272v
 Hankock, Johannes                                   2ê         274
 Hankock, Robbert                                    23         274
@@ -28,7 +28,7 @@ Hansz, Pieter — mr. schoenmaker                      51         L82v
 Heraut, Abraham — aenspreker                        36         348
 Harckse, Reijnier — boxemaker                       17         1£0
 Harcksz, Pieter — Oostind. schinper                 3          314
-Hardebol, Wed. Jan Aertsz — getr. met captein Hendrick Lodewijck Tak                    6         3iEv
+Hardebol, Wed. Jan Aertsz — getr. met captein Hendrick Lodewijck Tak                    36         345v
 " , Quirijn — keurmeester van de turff        59         554
 Hardetol, Sara                                     19        174
 Hartenberg, Burgert                                39         372
