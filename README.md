@@ -8,8 +8,6 @@
 
 ## Introduction
 
-TODO
-
 Van dit handgeschreven kohier (SAA inventarisnummer [5028:662](https://archief.amsterdam/archief/5075/662/)) bestaat een getypte index op achternaam (SAA inventarisnummber [5028:662A](https://archief.amsterdam/archief/5075/662A/)). Hierin is de naam van een persoon, de relatie tot een andere persoon of groep (e.g. wed. van, of kinderen van), beroep en de woonwijk opgenomen. Ook is genoteerd op welk foliant de persoon beschreven is. 
 
 
@@ -23,19 +21,21 @@ De wijkindeling correspondeert waarschijnlijk met die van een kaart uit 1766, ve
 
 ### Digitalisering
 
+Scans van zowel de index, als het kohier zelf zijn beschikbaar in de Beeldbank van het Stadsarchief Amsterdam. 
+
 #### OCR
 
-TODO
+OCR met [Tesseract](https://github.com/tesseract-ocr/tesseract) (5.0.0-alpha) op afgeleide tiff's van [Scantailor](https://github.com/4lex4/scantailor-advanced) (Advanced 1.0.16). Zie [`/data/tif/`](https://github.com/LvanWissen/kohier-1674/tree/master/data/tif). 
 
 #### Correctie
 
-TODO
+Semi-automatische verbetering van veelvoorkomende OCR-fouten (e.g. een '&' voor een '4'). Waar regels in het origineel afgebroken waren, zijn die in de tekstbestanden als één regel opgenomen. Elke regel kent drie kolommen, gescheiden door witruimte, met al dan niet een verdere verdeling in persoonsnaam en additionele informatie door een '—' teken. 
+
+Persoonsnamen zijn verder uitgesplitst volgens PNV ([https://w3id.org/pnv#](https://w3id.org/pnv#)).
 
 ### Conversie naar RDF
 
-TODO
-
-## Data
+De data uit de CSV is omgezet naar RDF volgens de ROAR ([https://w3id.org/roar#](https://w3id.org/roar#)) ontologie, met aanvullingen volgens PROV ([http://www.w3.org/ns/prov#](http://www.w3.org/ns/prov#)) OA ([http://www.w3.org/ns/oa#](http://www.w3.org/ns/oa#)) en EDM ([http://www.europeana.eu/schemas/edm/](http://www.europeana.eu/schemas/edm/)). Zie: [`/data/records.trig`](https://github.com/LvanWissen/kohier-1674/blob/master/data/records.trig). 
 
 ## Contact
 
