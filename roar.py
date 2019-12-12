@@ -1,5 +1,5 @@
 """
-SAA ontology to be used in direct conversion from SAA to Golden Agents. 
+ROAR ontology, plus several usefull classes from edm, schema, bio etc.
 """
 
 from rdflib import Dataset, Graph, Namespace
@@ -15,7 +15,7 @@ sem = Namespace("http://semanticweb.cs.vu.nl/2009/11/sem/")
 rel = Namespace("http://purl.org/vocab/relationship/")
 pnv = Namespace('https://w3id.org/pnv#')
 skos = Namespace('http://www.w3.org/2004/02/skos/core#')
-schema = Namespace('http://schema.org/')
+schema = Namespace('https://schema.org/')
 dc = Namespace("http://purl.org/dc/elements/1.1/")
 dcterms = Namespace("http://purl.org/dc/terms/")
 
@@ -26,14 +26,13 @@ foaf = Namespace("http://xmlns.com/foaf/0.1/")
 prov = Namespace("http://www.w3.org/ns/prov#")
 roar = Namespace("https://w3id.org/roar#")
 
-
-
 PersonObservation = Namespace(
     "https://data.create.humanities.uva.nl/datasets/kohier1674/observations/PersonObservation/"
 )
 OccupationObservation = Namespace(
     "https://data.create.humanities.uva.nl/datasets/kohier1674/observations/OccupationObservation/"
 )
+
 
 # Void
 class VoidDataset(rdfSubject):
@@ -49,16 +48,19 @@ class VoidDataset(rdfSubject):
 
 # Prov
 
+
 class Entity(rdfSubject):
     rdf_type = prov.Entity
-    
+
     locationInDocument = rdfSingle(roar.locationInDocument)
+
 
 class Derivation(rdfSubject):
     rdf_type = prov.Derivation
 
     hadActivity = rdfSingle(prov.hadActivity, range_type=prov.Activity)
     entity = rdfMultiple(prov.entity, range_type=prov.Entity)
+
 
 class Activity(rdfSubject):
     rdf_type = prov.Activity
@@ -69,6 +71,7 @@ class Activity(rdfSubject):
                                      range_type=prov.Association)
 
     comment = rdfSingle(RDFS.comment)
+
 
 class Association(rdfSubject):
     rdf_type = prov.Association
@@ -87,6 +90,7 @@ class Plan(rdfSubject):
 
 class Agent(rdfSubject):
     rdf_type = prov.Agent
+
 
 #############
 # SAA Index #
@@ -110,20 +114,34 @@ class Entity(rdfSubject):
 
     identifier = rdfSingle(schema.identifier)
 
+
+class Observation(Entity):
+    rdf_type = roar.Observation
+
+    locationInDocument = rdfSingle(roar.locationInDocument)
+
+
+class Reconstruction(Entity):
+    rdf_type = roar.Reconstruction
+
+
 class ProvidedCHO(Entity):
     rdf_type = edm.ProvidedCHO
-    
+
+
 class WebResource(Entity):
     rdf_type = edm.WebResource
-    
+
+
 class Aggregation(Entity):
     rdf_type = edm.Aggregation
-    
+
     aggregatedCHO = rdfSingle(edm.aggregatedCHO)
-    
+
     hasView = rdfSingle(edm.hasView)
     isShownAt = rdfSingle(edm.isShownAt)
     isShownBy = rdfSingle(edm.isShownBy)
+
 
 class Document(Entity):
     rdf_type = roar.Document, edm.ProvidedCHO
@@ -134,7 +152,7 @@ class Document(Entity):
     label = rdfMultiple(RDFS.label)
 
     onScan = rdfMultiple(roar.onScan)
-    
+
     items = rdfList(AS.items)  # rdf:Collection
     prev = rdfSingle(AS.prev)
     next = rdfSingle(AS.next)
@@ -164,6 +182,7 @@ class Agent(rdfSubject):
     rdf_type = prov.Agent
     label = rdfMultiple(RDFS.label)
     comment = rdfMultiple(RDFS.comment)
+
 
 class StructuredValue(rdfSubject):
     value = rdfSingle(RDF.value)
@@ -218,17 +237,15 @@ class Person(Entity):
     homeLocation = rdfSingle(schema.homeLocation)
 
 
-class PersonObservation(Person):
+class PersonObservation(Person, Observation):
     rdf_type = roar.PersonObservation
-    
-    locationInDocument = rdfSingle(roar.locationInDocument)
 
 
-class PersonReconstruction(Person):
+class PersonReconstruction(Person, Reconstruction):
     rdf_type = roar.PersonReconstruction
 
 
-class LocationObservation(Entity):
+class LocationObservation(Observation):
     rdf_type = roar.LocationObservation
 
     hasPerson = rdfMultiple(roar.hasPerson)
@@ -237,7 +254,7 @@ class LocationObservation(Entity):
     geoWithin = rdfSingle(schema.geoWithin)
 
 
-class LocationReconstruction(Entity):
+class LocationReconstruction(Reconstruction):
     rdf_type = roar.LocationReconstruction
 
 
@@ -254,20 +271,17 @@ class PersonName(rdfSubject):
     rdf_type = pnv.PersonName
     label = rdfSingle(RDFS.label)
 
-    # These map to A2A
     literalName = rdfSingle(pnv.literalName)
     givenName = rdfSingle(pnv.givenName)
     surnamePrefix = rdfSingle(pnv.surnamePrefix)
     baseSurname = rdfSingle(pnv.baseSurname)
 
-    # These do not
     prefix = rdfSingle(pnv.prefix)
     disambiguatingDescription = rdfSingle(pnv.disambiguatingDescription)
     patronym = rdfSingle(pnv.patronym)
     surname = rdfSingle(pnv.surname)
 
     nameSpecification = rdfSingle(pnv.nameSpecification)
-
 
 
 class Occupation(rdfSubject):
@@ -323,7 +337,6 @@ class Annotation(Entity):
     hasTarget = rdfSingle(oa.hasTarget)
 
     bodyValue = rdfSingle(oa.bodyValue)
-
     hasBody = rdfSingle(oa.hasBody)  # or multiple?
 
     motivatedBy = rdfSingle(oa.motivatedBy)
@@ -357,7 +370,8 @@ class TextQuoteSelector(Entity):
 
 class TextPositionSelector(Entity):
     rdf_type = oa.TextPositionSelector
-    
+
+
 class ResourceSelection(Entity):
     rdf_type = None
 
@@ -366,15 +380,9 @@ class ResourceSelection(Entity):
     hasState = rdfSingle(oa.hasState)
 
 
-class FragmentSelector(Entity):
-    rdf_type = oa.FragmentSelector
-
-    conformsTo = rdfSingle(dcterms.conformsTo)
-    value = rdfSingle(RDF.value)
-    
 class TextualBody(Entity):
     rdf_type = oa.TextualBody
-    
-    value=rdfSingle(RDF.value)
-    language=rdfSingle(dc.language)
-    format=rdfSingle(dc.term('format'))
+
+    value = rdfSingle(RDF.value)
+    language = rdfSingle(dc.language)
+    format = rdfSingle(dc.term('format'))

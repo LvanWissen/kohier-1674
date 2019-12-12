@@ -28,7 +28,7 @@ ACTIVITY = Activity(
     label=[Literal("OCR en correctie", lang='nl')],
     comment=[
         Literal(
-            "De scans van inventarisnummer 5028:622A zijn geOCRd met Tesseract (5.0.0-alpha) en daarna semi-automatisch gecorrigeerd.",
+            "De scans van inventarisnummer 5028:662A zijn geOCRd met Tesseract (5.0.0-alpha) en daarna semi-automatisch gecorrigeerd.",
             lang='nl')
     ])
 DERIVATION = Derivation(None, hadActivity=ACTIVITY)
@@ -63,11 +63,11 @@ def main(csvfile):
         images.add(image)
 
         aggregation = Aggregation(URIRef(
-            f"https://archief.amsterdam/archief/5028/622#p{pageNumber}"),
+            f"https://archief.amsterdam/archief/5028/662#p{pageNumber}"),
                                   aggregatedCHO=document)
 
         webResource = WebResource(
-            URIRef(f"https://archief.amsterdam/archief/5028/622A#{scanName}"))
+            URIRef(f"https://archief.amsterdam/archief/5028/662A#{scanName}"))
 
         aggregation.isShownAt = webResource
 

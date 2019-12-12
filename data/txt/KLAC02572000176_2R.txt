@@ -33,5 +33,5 @@ Corneliisz, Abraham — schoenmaker                    43         407
 " , Gerrit — captein — molen Dommekracht     P5         586v
 " , Hendrick — soutmeter                     51         4761
 " , Hendrick — coorndrager                   54         510v
-" , Huijgh — eijker van de seepvatjes         &          35v
+" , Huijgh — eijker van de seepvatjes         4          35v
 " , Jan — nì metselaer                       16         1499

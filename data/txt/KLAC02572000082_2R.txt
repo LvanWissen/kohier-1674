@@ -26,7 +26,7 @@ Fransz, Aeltge                                      10          99
 " , Frans — blauverver                          41         386
 " , Frederick — sleper                          59         554
 " , Harman — speldemaker                        51         477
-" , HendÌ — linnenwinkel                         &          35
+" , HendÌ — linnenwinkel                         4          35
 " , Hendrickje — vroedvrouw                      T         616
 " , Jacob — barbier                             32         3lèv
 " , Wed. Jan                                    55         525v

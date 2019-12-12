@@ -1,5 +1,5 @@
 Naam                                               wWijk        foie.
-Broekhuijsen, Reijnier van                         &           29v
+Broekhuijsen, Reijnier van                         4           29v
 Broen, Bonavontuur                                 9           8Ov
 Broen, XMarcus                                      41          383v
 Broen, Gerrit de —  cocuswit                      Ll          blbv
@@ -30,7 +30,7 @@ Bronckhorst, Jacobus — koeckebacker                60          561
 " , Jan van                              42          39b4v
 " , Maria van                             30          187
 " , Perina van — wede Claas Baltusz       20          187
-" , Vincent van — captein                 &          4O8v
+" , Vincent van — captein                 4          4O8v
 " , Vincent van                           M           565v
 " , Vincent van — schepen                 R           605v
 " , Warnaer van — makelaar                6           51v

@@ -28,7 +28,7 @@ Neck, Adriaen van                                   60         561
 " , Coraelis van + 2 broeders                     19         181
 " , Coraelis van — makelaer                       28         276
 " , Paulus van — erven van                         30        l
-" , Paulus van                                     &       29
+" , Paulus van                                     4       29
 " , Paulus van — Erfenis vaa                      20         184
 Nederhoff, Coert — tapper                            l           3
 Nederhoven, Johannes                                26         256

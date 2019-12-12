@@ -14,7 +14,7 @@ Hartman, Dirck Albertz                               2          14
 " , Wed. Gerrit — geb. Susanna Jacobs          49         455v
 " , Isack — chirurgijn                         59         551
 " , Jacobus — chirurgijn                       50         467
-" , Henal — koussewinkel                        &          29v
+" , Henal — koussewinkel                        4          29v
 " , Corn. getr. met Philips de la Fontaine      7          S7Y
 Hiartmans, Harmanus — cassier van de tnresaurie       Ó         5S3v
 Hartmanz, Harmen                                     8          71

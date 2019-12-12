@@ -1,11 +1,12 @@
 Naam                                        Wijk       foL.
-Baren, Rutgert van                            6         D— Barendinus, Barent                            2         i7
+Baren, Rutgert van                            6         54
+Barendinus, Barent                            2         17
 Barens, Guertje — onmondige kinderen van     18        169v
-Barenspel, Iver Jansz                       _16        l52v
+Barenspel, Iver Jansz                        16        152v
 Barents, Aeltje                              20        164
-" , áeltje — wede.                      54        5il
-" , Amnetje                              &         7ov
-" , ánnetje — wede.                     26        253
+" , Aeltje — wede.                      54        511
+" , Annetje                              4         7ov
+" , Annetje — wede.                     26        253
 " , Beletje                             20        164
 " , Jannitje — Erf van                  24        221
 " , Cornelia — wede. Hollesloot          8         78
@@ -20,7 +21,7 @@ Barentsz, Albert — speckvercoper             45        424
 " , Barent — cleercoper                47        45öSv
 " , Barent                             52        467v
 " , Barent — boonsluijter              T         6Giöv
-" , wede. Bartelt geb. ïäarritje Willem  53      5O4v
+" , wede. Bartelt geb. Marritje Willem  53      5O4v
 " , Dirck — backer — Erven van         27        269
 " , Evert — mr. timmerman — + soon     26        277
 " , Zvert — kistemaker                 42        396v
@@ -37,4 +38,4 @@ Barentsz, Albert — speckvercoper             45        424
 " , Jan — schoenmaker                  53        499v
 " , Jan — schipper op Leijden         56        530
 " , Joost — backer #                   25        255
-" , weëe. Claas geb. „amnetje Harmans   453        407
+" , wede. Claas geb. „amnetje Harmans   453        407
