@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Van dit handgeschreven kohier (SAA inventarisnummer [5028:662](https://archief.amsterdam/archief/5075/662/)) bestaat een getypte index op achternaam (SAA inventarisnummber [5028:662A](https://archief.amsterdam/archief/5075/662A/)). Hierin is de naam van een persoon, de relatie tot een andere persoon of groep (e.g. wed. van, of kinderen van), beroep en de woonwijk opgenomen. Ook is genoteerd op welk foliant de persoon beschreven is. 
+Van dit handgeschreven kohier (SAA inventarisnummer [5028:662](https://archief.amsterdam/archief/5028/662/)) bestaat een getypte index op achternaam (SAA inventarisnummber [5028:662A](https://archief.amsterdam/archief/5028/662A/)). Hierin is de naam van een persoon, de relatie tot een andere persoon of groep (e.g. wed. van, of kinderen van), beroep en de woonwijk opgenomen. Ook is genoteerd op welk foliant de persoon beschreven is. 
 
 
 
