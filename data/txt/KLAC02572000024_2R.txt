@@ -8,7 +8,7 @@ Becker, Abraham — advocaat                   29        286
 " , larman                               25        255
 " , Harmen                               33        325
 " , Hendrick — captein                   37        550v
-" , Hendrick                             E         567
+" , Hendrick                             H         567
 " , Hendrick — bewintheboer O.I.C.      O        598
 " , Hendrick — comnissaris van wisselbank  R      607
 " , Jan                                   2         11

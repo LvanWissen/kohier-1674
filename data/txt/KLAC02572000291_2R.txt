@@ -21,7 +21,7 @@ Spruijt, David — juwelier                           33         32bv
 " , Cornelis Willemsz — Erven van              52         486
 " , Samuel                                                               30                239
 " , Samuel                                     33         324
-" , Wed., %illen — erf van                      60         563
+" , Wed. %illen — erf van                      60         563
 " , wed. dochter van                           60         563
 Spijck, Jan van der — smith                         O        590
 Spijcker, Jochem                                     4          31

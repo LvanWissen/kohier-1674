@@ -29,7 +29,7 @@ Hooft, Dirck                                        M         566
 " , Dirck — commissaris kleine zaken              R         607v
 " , Gerard                                        M         566v
 " , Gerrit — Erven van                           60         558
-" , Mr. Gorrit — secretaris                        Ó         595v
+" , Mr. Gorrit — secretaris                        O         595v
 " , Hendr — fiscaal                          9        88
 " , Hendrick — getr. met Maria van Walenburgh     ú         566v
 " , Mr. Hendrick — advocaat fiscaal zent          O        600

@@ -1,9 +1,9 @@
 Naam                                                 Wijk       fol.
-Jans, Aeltje — wed., Jan Paulusz Klots               59         553
+Jans, Aeltje — wed. Jan Paulusz Klots               59         553
 " , Agneta                                        26         249
 " , Anne — dr. van Jan Hendrix                    17         155v
 " , Anne — hoenderwijff                           18         171
-" , Annetge — wed., Jacob van den Bergh             6          54
+" , Annetge — wed. Jacob van den Bergh             6          54
 " , Annetje — weduw.                              11         103
 " , Annetje — wed.                                17         154
 " , Annetje — commexiijh.r                         29         285
@@ -21,7 +21,7 @@ Jans, Aeltje — wed., Jan Paulusz Klots               59         553
 " , Baefje                                        25         24Ov
 Jans, Baefje                                        32         317v
 " , Baefje — wed. Claes Egbertsz                  53         503
-" , wed. Daniel — linnewinckelierster           ' 11         103
+" , wed. Daniel — linnewinckelierster             11         103
 " , Elisabet                                       5          4hv
 " , Elsje — wed. Hendrick Dominicus               10          96v
 " , wed. Elsje                                    17         158v
@@ -33,7 +33,7 @@ Jans, Baefje                                        32         317v
 " , Grietje                                        9          87
 " , Grietje                                       25         234
 " , Grietge — wed. — stickster                    26         246
-" , Grietje — wed.,                                37         355
+" , Grietje — wed.                                37         355
 " , Grietje                                       46         h32v.
 " , Grietje                                       52         495v
 " , Griotje — wed.                                53         498

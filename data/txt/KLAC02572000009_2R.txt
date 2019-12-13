@@ -1,8 +1,8 @@
 Naam                                         Wijk       fol.
-Albertz, Jacob — glasemaker                   9         b2v
+Albertz, Jacob — glasemaker                   9         82v
 Albin, Barnardo Lopes — kinderen van         J         575
 " , Isack Lopes                           J         575
-Alckemade, Elisabeth van                     51        4 71
+Alckemade, Elisabeth van                     51        471
 " , Hendrick van — priester           50        461v
 " , Martinus van                      51        471
 Alckmaer, Jan Willemsz — Erven van           16        169v
@@ -10,20 +10,20 @@ Alderdingh, Philip — speckkoper           24       228
 " , Philips                          56        554
 Alders, wede. Hendrick                       55        524
 Alderse, Pieter — Erven van                   24        219
-Aldertsz, Arent — zijreder                   4i        413
+Aldertsz, Arent — zijreder                   44        413
 Aldewereld, Adriaen van                      50        461v
 " , Jacobus van                      60        556v
 " , Pieter Salomonsz van             39        267V
 " , Pieter van                       48        443v
-" , Salomon van                      539        367Vv
-Aldewerelt, Aeltje                     59      254
+" , Salomon van                      39        367v
+Aldewerelt, Aeltje                     59      554
 " , Anthoni van — kinderen           46        429
 " , Jacob van                        60        556v
 " , Jan van                          44        409v
-" , Corneliis van                     50        4611v
+" , Corneliis van                     50        461v
 Alen, Jan van — kantvercooper                 7         58v
 Alewijn, Abraham — captein                   42        392v 393
-" , Abraham — de jonge                  35        Z22v
+" , Abraham — de jonge                  35        322v
 " , Dirck                               42        392v
 " , Jan                          17      156
 " , Jannetje — wede,                    49        454
@@ -35,5 +35,5 @@ Alfhuijsen, wede. Gerrit                35      319
 Allart, Pieter                                6         51
 Allarts, Hugo — constvercoper                24        220v
 Allekens, Pr. — Erf van                      20       186v
-Alles, Hendrick Hendricksz — silversmit      lè2        111
+Alles, Hendrick Hendricksz — silversmit      12        111
 Almeloveen, DO. Johannes — predicant         19        175

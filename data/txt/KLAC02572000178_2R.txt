@@ -15,8 +15,8 @@ Cornelisz, Meijndert                                17         162
 " , Roeloff — schuijtevoerder                16         148
 " , Sanden — Molen Salomon                   P2         585v
 " , wed. Steven — schoenmaker                45         426
-" , wed., Taeke                              52         493v
-" , Tierck                          1.17       162
+" , wed. Taeke                              52         493v
+" , Tierck                          117       162
 " , wed. Timon — vlascoper — geb. Lijntje Jacobs                                  59         550v
 " , Warnaer — smit                           27         260v
 " , Walmet                                   40         379

@@ -1,12 +1,12 @@
-Naam                                                Vijk       fols
-Hoijwagen, Teunis                                   32         3i7v
+Naam                                                Wijk       fols
+Hoijwagen, Teunis                                   32         317v
 Hoze, Reijnier                                      26         243v
 Hucntenbroeck, Pieter van                           21         192v
 Hudde, Älisabeth wed. Adriaan Willemsz Raan         50         461
 " , wed. Gerard ceb. Maria Witsen                31         299v
-" , Hendrick — Erven van                         43       , 403
-" , Isack             '                         40         373v
-" , Joan — burgemeester + vrouw                   ó         567v
+" , Hendrick — Erven van                         43         403
+" , Isack                                       40         373v
+" , Joan — burgemeester + vrouw                   M         567v
 " , Johan — thesaurier ord.                       R         605
 " , Rombout — captein                            45         420
 " , Rombout                                                565v
@@ -27,7 +27,7 @@ Hulszan, Dirck — blauverver                         33         328
 Hulst, Johan — bewinthebber O.I.C.                   O         597
 " , Rooloff Fredl                       10       S6v
 " , wed. van                                      5          3êv
-" , Catharina van der — wed.,                     56         532v
+" , Catharina van der — wed.                     56         532v
 Hulten, Philip van                                 38         358
 Hulter, Gualter de — getr. met Helena Warmont       34         330v
 " , Johannes de + broeder en zuster             19         176v

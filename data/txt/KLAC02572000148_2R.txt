@@ -11,7 +11,7 @@ Jansz, Volckert — erf van                           52         L85 L487v
 " , Willem — schoenmaker                         37         353
 " , Willem — brouwer                             45         422v
 " , Willem + houtcoper                           50         468
-" , Willem — vloetschuijtvoerder                 51.        480
+" , Willem — vloetschuijtvoerder                 51        480
 " , Willem — corendrager aan de Molen de Karn    P6         588v
 " , Wijbrig — Erven van                          56         528v
 " , Wijnent — verger van de Den                   T         617

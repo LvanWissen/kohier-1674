@@ -19,12 +19,12 @@ Senrigues, Aron Moreno                               J         571v
 " , Jacob Nunes                               d         572
 " , Josua Buno                                J         571
 " , Manuel Dias + zusters                     J         570
-" , Mordochai Senior                          ó         578
+" , Mordochai Senior                          O         578
 " , wed. Moses Baroca — geb. 2achel Baroca    J         S73v
 " , Moses Bueno                               J         575
 " , Mozes Gabaij                              J         573
 " , Moses Nunes                               d         572
-" , Perrera, Isack                            ó         578v
+" , Perrera, Isack                            O         578v
 " , Pharo, David                              J         574
 Hens, wed. Pieter                                   12         111v
 Hensbeeck, Anna van — erf van                       AS         609

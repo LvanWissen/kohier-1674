@@ -17,7 +17,15 @@ def main():
     return d
 
 
-def processFile(f):
+def processFile(f: str) -> list:
+    """Process a txt file (OCR result).
+    
+    Args:
+        f (str): Filepath
+    
+    Returns:
+        list: List of dictionaries with identified informational parts.
+    """
 
     with open(f, encoding='utf-8') as infile:
 
@@ -49,7 +57,7 @@ def processFile(f):
         for n, d in enumerate(data):
             if d['personReference'].startswith('"'):
                 d['personReference'] = surnameFill(
-                    d['personReference'], data[n - 1]['personReference'], f)
+                    d['personReference'], data[n - 1]['personReference'])
 
         # Try to parse the nameref
         for d in data:
@@ -59,10 +67,30 @@ def processFile(f):
                 d = {**d, **matches}
             records.append(d)
 
+        # TODO
+        # # Relatives and occupation
+        # for d in records:
+        #     if d['disambiguatingDescription']:
+
+        #         # Are there references to relatives in the disambiguatingDescription?
+        #         d['relatives'] = findRelatives(d['disambiguatingDescription'])
+
+        #         # Occupations?
+        #         d['occupation'] = findOccupation(
+        #             d['disambiguatingDescription'])
+
         return records
 
 
-def separate(text):
+def separate(text: str) -> tuple:
+    """Try to separate a string into three columns by white space.
+    
+    Args:
+        text (str): A line in the OCR text.
+    
+    Returns:
+        tuple: Tuple of strings (personReference, neighbourhood, folio).
+    """
 
     text = text[::-1]
 
@@ -86,7 +114,16 @@ def separate(text):
     return personReference, neighbourhood, folio
 
 
-def surnameFill(person, previousPerson, f):
+def surnameFill(person: str, previousPerson: str) -> str:
+    """Correct abbreviation " characters by looking at the previous mentioned person. 
+    
+    Args:
+        person (str): A person reference (i.e. " , Jan)
+        previousPerson ([str]): A person reference (i.e. Jansz, Jan)
+    
+    Returns:
+        str: A corrected person reference
+    """
 
     surname, _ = previousPerson.split(',', 1)
     surname = surname.strip()
@@ -96,7 +133,17 @@ def surnameFill(person, previousPerson, f):
     return person
 
 
-def parseNameRef(reference, REGEX=REGEX):
+def parseNameRef(reference: str, REGEX=REGEX) -> dict:
+    """Use regex to filter out parts of a PersonName.
+    
+    Args:
+        reference (str): A person reference (e.g. Jansen, Jan — metselaer)
+        REGEX (re.Pattern): [description]. Defaults to REGEX.
+    
+    Returns:
+        dict: Dictionary with keys givenName, surnamePrefix, baseSurname, 
+        related, altName, disambiguatingDescription.
+    """
 
     matches = [m.groupdict() for m in REGEX.finditer(reference)]
 
@@ -124,6 +171,9 @@ def parseNameRef(reference, REGEX=REGEX):
         if 'geb.' in result['givenName']:
             result['givenName'], result['altName'] = result['givenName'].split(
                 ' geb. ')
+        elif 'geboren' in result['givenName']:
+            result['givenName'], result['altName'] = result['givenName'].split(
+                ' geboren ')
         else:
             result['altName'] = None
 
@@ -152,6 +202,14 @@ def parseNameRef(reference, REGEX=REGEX):
         result = {k: (v.strip() if v else v) for k, v in result.items()}
 
         return result
+
+
+def findRelatives(description: str):
+    pass
+
+
+def findOccupation(description: str):
+    pass
 
 
 if __name__ == "__main__":

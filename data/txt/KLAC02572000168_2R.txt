@@ -19,8 +19,8 @@ Cocq, Paulus Coenraet Lederus                        5          21
 Kocks, Mattijs                                     10          99v
 Kockij, Markus                                     4h         409
 " , Roelandt                                   23         212
-Codde, Gerrit                                      11      , 10b4v
-" , Marten                                      e         225
+Codde, Gerrit                                      11       10b4v
+" , Marten                                      24         225
 " , Pieter                                       24        225
 Kodde, Pieter                              33     325
 Codijn, Evert                            50     L62v

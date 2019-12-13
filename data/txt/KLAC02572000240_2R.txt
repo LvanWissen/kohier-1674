@@ -28,7 +28,7 @@ Pelt, Elisabeth                                     29         282v
 " , Emanuel — kinderen van                       33         Zeev
 " , Govert Pietersz              m               24         224
 " , Hendrick Pietersz                             26         25bv
-" , Jan                                           38     ' 359
+" , Jan                                           38       359
 " , Johannes                                        8          70
 " , Maria — wed. Caspar van Vickevoort             8          70
 " , wed. Paulus — Abramsz                         33         326

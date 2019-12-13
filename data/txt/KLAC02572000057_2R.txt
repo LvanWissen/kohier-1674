@@ -21,7 +21,7 @@ Daijman, Grietje                                    52         492
 Decker, Anna                                        57         539
 " , Arnout — felpwercker                        41         389v
 " , Dirck                                       18         171
-" , Hendrick                                   58.        SLS
+" , Hendrick                                   58        SLS
 " , Isack — ijter van de wicht                  33         319v
 " , Jan                                         57         539
 " , Constantia                                 57         539

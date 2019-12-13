@@ -14,7 +14,7 @@ Tielens, Anna                                        8          75
 " , Jan                                         5          L3v
 " , Jan                                         M         567v
 " , Catharina                                   M         567v
-" , Michiel                                     H         567v
+" , Michiel                                     M         567v
 " , Michiel — comm. banck van leeningh          R         607v
 " , Sara                                       M         567
 Tielenz, Sara                                        8          75
