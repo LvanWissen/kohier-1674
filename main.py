@@ -177,6 +177,21 @@ def parseNameRef(reference: str, REGEX=REGEX) -> dict:
         else:
             result['altName'] = None
 
+        # de jonge / de oude
+        if result['givenName'].strip().lower().endswith('de jonge') or result[
+                'givenName'].strip().lower().endswith('de oude'):
+            result['givenName'], jongoud, _ = re.split(r" (de jonge|de oude)",
+                                                       result['givenName'],
+                                                       maxsplit=1,
+                                                       flags=re.IGNORECASE)
+            jongoud = jongoud.strip()
+
+            if jongoud and result['disambiguatingDescription']:
+                result['disambiguatingDescription'] = ",".join(
+                    [jongoud, result['disambiguatingDescription']])
+            elif jongoud:
+                result['disambiguatingDescription'] = jongoud
+
         # and filter out any surnamePrefix
         prefixes = {
             'van der', 'van de', 'van', 'de', 'du', "d'", 'ter', 'ten',

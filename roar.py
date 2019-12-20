@@ -9,21 +9,21 @@ from rdflib import URIRef, BNode, Literal
 from rdfalchemy.rdfSubject import rdfSubject
 from rdfalchemy import rdfSingle, rdfMultiple, rdfContainer, rdfList
 
-bio = Namespace("http://purl.org/vocab/bio/01/")
+bio = Namespace("http://purl.org/vocab/bio/0.1/")
 edm = Namespace("http://www.europeana.eu/schemas/edm/")
 sem = Namespace("http://semanticweb.cs.vu.nl/2009/11/sem/")
 rel = Namespace("http://purl.org/vocab/relationship/")
 pnv = Namespace('https://w3id.org/pnv#')
-skos = Namespace('http://www.w3org/2004/02/skos/core#')
+skos = Namespace('http://www.w3.org/2004/02/skos/core#')
 schema = Namespace('https://schema.org/')
-dc = Namespace("http://purl.org/dc/elements/11/")
+dc = Namespace("http://purl.org/dc/elements/1.1/")
 dcterms = Namespace("http://purl.org/dc/terms/")
 
-AS = Namespace("http://www.w3org/ns/activitystreams#")
-oa = Namespace("http://www.w3org/ns/oa#")
-void = Namespace("https://www.w3org/TR/void/")
-foaf = Namespace("http://xmlns.com/foaf/01/")
-prov = Namespace("http://www.w3org/ns/prov#")
+AS = Namespace("http://www.w3.org/ns/activitystreams#")
+oa = Namespace("http://www.w3.org/ns/oa#")
+void = Namespace("http://rdfs.org/ns/void#")
+foaf = Namespace("http://xmlns.com/foaf/0.1/")
+prov = Namespace("http://www.w3.org/ns/prov#")
 roar = Namespace("https://w3id.org/roar#")
 
 PersonObservation = Namespace(
@@ -123,6 +123,8 @@ class Observation(Entity):
 
 class Reconstruction(Entity):
     rdf_type = roar.Reconstruction
+
+    sameAs = rdfSingle(schema.sameAs)
 
 
 class ProvidedCHO(Entity):
@@ -235,6 +237,8 @@ class Person(Entity):
 
     address = rdfSingle(schema.address)
     homeLocation = rdfSingle(schema.homeLocation)
+
+    depiction = rdfSingle(foaf.depiction)
 
 
 class PersonObservation(Person, Observation):
