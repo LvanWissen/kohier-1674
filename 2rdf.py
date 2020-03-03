@@ -1,27 +1,29 @@
+import datetime
 from itertools import count
 
 import pandas as pd
 
-from rdflib import Graph, URIRef, Namespace, Literal
+from rdflib import Dataset, Graph, URIRef, Namespace, Literal, XSD, OWL
 
 from roar import rdfSubject
 from roar import Agent, Activity, Derivation
-from roar import Document, Annotation, PersonObservation, PersonName, LocationObservation, ResourceSelection, FragmentSelector, TextualBody, Aggregation, WebResource
-from roar import edm, roar, dc, oa, prov, dcterms, pnv
+from roar import VoidDataset, DataDownload, Document, Annotation, PersonObservation, PersonName, LocationObservation, ResourceSelection, FragmentSelector, TextualBody, Aggregation, WebResource
+from roar import edm, roar, dc, oa, prov, dcterms, pnv, schema, void, foaf
+
+create = Namespace("https://data.create.humanities.uva.nl/")
 
 personCounter = count(1)
 nsPersonObservation = Namespace(
-    "https://data.create.humanities.uva.nl/datasets/kohier1674/observations/PersonObservation/"
+    "https://data.create.humanities.uva.nl/id/kohier1674/observations/PersonObservation/"
 )
 nsLocationObservation = Namespace(
-    "https://data.create.humanities.uva.nl/datasets/kohier1674/observations/LocationObservation/"
+    "https://data.create.humanities.uva.nl/id/kohier1674/observations/LocationObservation/"
 )
 nsOccupationObservation = Namespace(
-    "https://data.create.humanities.uva.nl/datasets/kohier1674/observations/OccupationObservation/"
+    "https://data.create.humanities.uva.nl/id/kohier1674/observations/OccupationObservation/"
 )
 
-AGENT = Agent(URIRef("https://www.leonvanwissen.nl/#me"),
-              label=["Leon van Wissen"])
+AGENT = Agent(URIRef("https://leonvanwissen.nl/me"), label=["Leon van Wissen"])
 ACTIVITY = Activity(
     None,
     wasAssociatedWith=[AGENT],
@@ -34,22 +36,10 @@ ACTIVITY = Activity(
 DERIVATION = Derivation(None, hadActivity=ACTIVITY)
 
 
-def main(csvfile):
+def main(csvfile, g):
 
     df = pd.read_csv(csvfile)
     df = df.where((pd.notnull(df)), None)
-
-    g = rdfSubject.db = Graph(
-        identifier="https://data.create.humanities.uva.nl/datasets/kohier1674/"
-    )
-
-    g.bind('edm', edm)
-    g.bind('pnv', pnv)
-    g.bind('roar', roar)
-    g.bind('dc', dc)
-    g.bind('dcterms', dcterms)
-    g.bind('oa', oa)
-    g.bind('prov', prov)
 
     images = set()
     for r in df.to_dict(orient='records'):
@@ -125,11 +115,76 @@ def main(csvfile):
 
     DERIVATION.entity = sorted(images)
 
-    return g
+    return personObservation  # exampleResource
 
 
 if __name__ == "__main__":
-    g = main('data/records.csv')
+
+    ds = Dataset()
+    g = rdfSubject.db = ds.graph(
+        identifier="https://data.create.humanities.uva.nl/id/kohier1674/")
+
+    exampleResource = main('data/records.csv', g)
+
+    rdfSubject.db = ds
+
+    description = """Van dit handgeschreven kohier (SAA inventarisnummer 5028:662) bestaat een getypte index op achternaam (SAA inventarisnummber 5028:662A). Hierin is de naam van een persoon, de relatie tot een andere persoon of groep (e.g. wed. van, of kinderen van), beroep en de woonwijk opgenomen. Ook is genoteerd op welk foliant de persoon beschreven is.
+
+In totaal zijn 60 wijken beschreven in het kohier, aangegeven met cijfers. Daarna volgt een sectie van de 'Magistraten' (M), 'Joodse Natie' (J), 'Paden buijten de Stadt' (P1-P6), 'Officianten' (O), 'Regerende heeren' (R), 'Personen van andere Steden' (AS) en 'Testamenten' (T).
+
+De wijkindeling correspondeert waarschijnlijk met die van een kaart uit 1766, vervaardigd door C. Philips Jacobsz. (1732-1789) en F.W. Greebe en is beschikbaar in de Beeldbank van het Stadsarchief, afbeelding 010001000849.
+
+"""
+    contributors = ""
+
+    download = DataDownload(
+        None,
+        contentUrl=URIRef(
+            "https://github.com/LvanWissen/kohier-1674/raw/master/data/kohier1674.trig"
+        ),
+        # name=Literal(),
+        url=URIRef("https://github.com/LvanWissen/kohier-1674"),
+        encodingFormat="application/trig")
+
+    dataset = VoidDataset(
+        URIRef("https://data.create.humanities.uva.nl/id/kohier1674/"),
+        name=[
+            Literal("Kohier van de 200ste penning, Amsterdam 1674", lang='nl')
+        ],
+        about=None,
+        url=URIRef("https://github.com/LvanWissen/kohier-1674"),
+        description=[Literal(description, lang='nl')],
+        creator=[URIRef("https://leonvanwissen.nl/me")],
+        publisher=[],
+        contributor=[],
+        source=None,
+        date=Literal(datetime.datetime.now().isoformat(),
+                     datatype=XSD.datetime),
+        created=None,
+        issued=None,
+        modified=None,
+        exampleResource=exampleResource,
+        vocabulary=[URIRef("https://schema.org/")],
+        triples=sum(1 for i in ds.graph(
+            identifier="https://data.create.humanities.uva.nl/id/kohier1674/").
+                    subjects()),
+        temporalCoverage=Literal("1674", datatype=XSD.gYear, normalize=False),
+        licenseprop=URIRef(
+            "https://creativecommons.org/licenses/by-nc-sa/4.0/"),
+        distribution=download)
+
+    ds.bind('owl', OWL)
+    ds.bind('create', create)
+    ds.bind('schema', schema)
+    ds.bind('void', void)
+    ds.bind('foaf', foaf)
+    ds.bind('edm', edm)
+    ds.bind('pnv', pnv)
+    ds.bind('roar', roar)
+    ds.bind('dc', dc)
+    ds.bind('dcterms', dcterms)
+    ds.bind('oa', oa)
+    ds.bind('prov', prov)
 
     print("Serializing!")
-    g.serialize('data/records.trig', format='trig')
+    ds.serialize('data/kohier1674.trig', format='trig')

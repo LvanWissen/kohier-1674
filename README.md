@@ -1,9 +1,9 @@
 # Kohier van de 200ste penning, Amsterdam 1674
 
-| License     |                                                                                                                                                |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source code | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)                                    |
-| Data        | [![License: CC BY-SA 40](https://img.shields.io/badge/License-CC%20BY--SA%2040-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/40/) |
+| License     |                                                                                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source code | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)                                     |
+| Data        | [![License: CC BY-SA 40](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/40/) |
 
 
 ## Introduction
@@ -35,7 +35,7 @@ Persoonsnamen zijn verder uitgesplitst volgens PNV ([https://w3id.org/pnv#](http
 
 ### Conversie naar RDF
 
-De data uit de CSV is omgezet naar RDF volgens de ROAR ([https://w3id.org/roar#](https://w3id.org/roar#)) ontologie, met aanvullingen volgens PROV ([http://www.w3org/ns/prov#](http://www.w3org/ns/prov#)) OA ([http://www.w3org/ns/oa#](http://www.w3org/ns/oa#)) en EDM ([http://www.europeana.eu/schemas/edm/](http://www.europeana.eu/schemas/edm/)). Zie: [`/data/records.trig`](https://github.com/LvanWissen/kohier-1674/blob/master/data/records.trig). 
+De data uit de CSV is omgezet naar RDF volgens de ROAR ([https://w3id.org/roar#](https://w3id.org/roar#)) ontologie, met aanvullingen volgens PROV ([http://www.w3org/ns/prov#](http://www.w3org/ns/prov#)) OA ([http://www.w3org/ns/oa#](http://www.w3org/ns/oa#)) en EDM ([http://www.europeana.eu/schemas/edm/](http://www.europeana.eu/schemas/edm/)). Zie: [`/data/kohier1674.trig`](https://github.com/LvanWissen/kohier-1674/blob/master/data/kohier1674.trig). 
 
 ## Contact
 

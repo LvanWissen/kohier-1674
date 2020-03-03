@@ -34,25 +34,68 @@ OccupationObservation = Namespace(
 )
 
 
-# Void
-class VoidDataset(rdfSubject):
-    rdf_type = void.Dataset
-
-    subset = rdfMultiple(void.subset)
-
-    title = rdfSingle(dcterms.title)
-    description = rdfSingle(dcterms.description)
-
-    label = rdfMultiple(RDFS.label)
-
-
-# Prov
-
-
 class Entity(rdfSubject):
     rdf_type = prov.Entity
 
     locationInDocument = rdfSingle(roar.locationInDocument)
+    name = rdfMultiple(schema.name)
+
+    url = rdfSingle(schema.url)
+
+
+# Void
+class VoidDataset(rdfSubject):
+    rdf_type = void.Dataset, schema.Dataset
+
+    subset = rdfMultiple(void.subset)
+
+    label = rdfMultiple(RDFS.label)
+    name = rdfMultiple(schema.name)
+
+    # db = ConjunctiveGraph
+
+    about = rdfSingle(schema.about)
+    url = rdfSingle(schema.url)
+
+    title = rdfMultiple(dcterms.title)
+    description = rdfMultiple(dcterms.description)
+    creator = rdfMultiple(dcterms.creator)
+    publisher = rdfMultiple(dcterms.publisher)
+    contributor = rdfMultiple(dcterms.contributor)
+    source = rdfSingle(dcterms.source)
+    date = rdfSingle(dcterms.date)
+    created = rdfSingle(dcterms.created)
+    issued = rdfSingle(dcterms.issued)
+    modified = rdfSingle(dcterms.modified)
+
+    exampleResource = rdfSingle(void.exampleResource)
+    vocabulary = rdfMultiple(void.vocabulary)
+    triples = rdfSingle(void.triples)
+
+    descriptionSchema = rdfMultiple(schema.description)
+    isBasedOn = rdfSingle(schema.isBasedOn)
+
+    dateCreated = rdfSingle(schema.dateCreated)
+
+    distribution = rdfSingle(schema.distribution)
+    licenseprop = rdfSingle(schema.license)
+
+    alternateName = rdfMultiple(schema.alternateName)
+    citation = rdfMultiple(schema.citation)
+
+    keywords = rdfMultiple(schema.keywords)
+    spatialCoverage = rdfSingle(schema.spatialCoverage)
+    temporalCoverage = rdfSingle(schema.temporalCoverage)
+
+
+class DataDownload(Entity):
+    rdf_type = schema.DataDownload
+
+    contentUrl = rdfSingle(schema.contentUrl)
+    encodingFormat = rdfSingle(schema.encodingFormat)
+
+
+# Prov
 
 
 class Derivation(rdfSubject):
