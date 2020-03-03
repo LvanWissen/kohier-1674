@@ -15,7 +15,7 @@ sem = Namespace("http://semanticweb.cs.vu.nl/2009/11/sem/")
 rel = Namespace("http://purl.org/vocab/relationship/")
 pnv = Namespace('https://w3id.org/pnv#')
 skos = Namespace('http://www.w3.org/2004/02/skos/core#')
-schema = Namespace('https://schema.org/')
+schema = Namespace('http://schema.org/')
 dc = Namespace("http://purl.org/dc/elements/1.1/")
 dcterms = Namespace("http://purl.org/dc/terms/")
 
