@@ -23,7 +23,7 @@ nsOccupationObservation = Namespace(
     "https://data.create.humanities.uva.nl/id/kohier1674/observations/OccupationObservation/"
 )
 
-AGENT = Agent(URIRef("https://leonvanwissen.nl/me"), label=["Leon van Wissen"])
+AGENT = Agent(URIRef("https://orcid.org/0000-0001-8672-025X"), label=["Leon van Wissen"])
 ACTIVITY = Activity(
     None,
     wasAssociatedWith=[AGENT],
@@ -154,7 +154,7 @@ De wijkindeling correspondeert waarschijnlijk met die van een kaart uit 1766, ve
         about=None,
         url=URIRef("https://github.com/LvanWissen/kohier-1674"),
         description=[Literal(description, lang='nl')],
-        creator=[URIRef("https://leonvanwissen.nl/me")],
+        creator=[URIRef("https://orcid.org/0000-0001-8672-025X")],
         publisher=[],
         contributor=[],
         source=None,
@@ -170,7 +170,7 @@ De wijkindeling correspondeert waarschijnlijk met die van een kaart uit 1766, ve
                     subjects()),
         temporalCoverage=Literal("1674", datatype=XSD.gYear, normalize=False),
         licenseprop=URIRef(
-            "https://creativecommons.org/licenses/by-nc-sa/4.0/"),
+            "https://creativecommons.org/licenses/by/4.0/"),
         distribution=download)
 
     ds.bind('owl', OWL)
